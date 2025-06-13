@@ -1,0 +1,6 @@
+dev:
+  gcp_project: dev-project
+staging:
+  gcp_project: staging-project
+prod:
+  gcp_project: prod-project

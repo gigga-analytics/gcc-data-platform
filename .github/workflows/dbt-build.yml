@@ -1,0 +1,7 @@
+name: dbt Build
+on: [push]
+jobs:
+  dbt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
