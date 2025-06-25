@@ -69,7 +69,7 @@ itp-data-platform/
 For questions or issues, contact the Data Engineering team.
 
 
-
+```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Data Sources  │────│  Ingestion      │────│  Storage &      │
 │                 │    │  Layer          │    │  Processing     │
@@ -88,3 +88,4 @@ For questions or issues, contact the Data Engineering team.
 │ • Tableau       │    │ • Dataform      │
 │ • Custom Apps   │    │ • dbt Cloud     │
 └─────────────────┘    └─────────────────┘
+```
