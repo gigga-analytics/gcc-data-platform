@@ -4,7 +4,7 @@ Enterprise-Grade Data Platform on GCP/BigQuery.
 
 
 
-# In The Pocket - Data Platform
+# GCP - Data Platform
 
 ## 🎯 Overview
 Modern, cloud-native data platform designed to accelerate financial reporting and strategic decision-making at In The Pocket.
