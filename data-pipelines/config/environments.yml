@@ -1,6 +1,71 @@
-dev:
-  gcp_project: dev-project
+development:
+  project_id: "itp-data-platform-dev"
+  region: "europe-west1"
+  datasets:
+    raw: "dev_raw"
+    staging: "dev_staging"
+    warehouse: "dev_warehouse"
+    analytics: "dev_analytics"
+  storage:
+    data_lake_bucket: "itp-data-platform-dev-data-lake"
+    temp_bucket: "itp-data-platform-dev-temp"
+  pubsub:
+    financial_topic: "dev-financial-stream"
+    monitoring_topic: "dev-monitoring"
+  logging:
+    level: "DEBUG"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  monitoring:
+    enabled: true
+    alert_thresholds:
+      data_freshness_hours: 24
+      pipeline_success_rate: 0.95
+      cost_per_day_eur: 200
+
 staging:
-  gcp_project: staging-project
-prod:
-  gcp_project: prod-project
+  project_id: "itp-data-platform-staging"
+  region: "europe-west1"
+  datasets:
+    raw: "staging_raw"
+    staging: "staging_staging"
+    warehouse: "staging_warehouse"
+    analytics: "staging_analytics"
+  storage:
+    data_lake_bucket: "itp-data-platform-staging-data-lake"
+    temp_bucket: "itp-data-platform-staging-temp"
+  pubsub:
+    financial_topic: "staging-financial-stream"
+    monitoring_topic: "staging-monitoring"
+  logging:
+    level: "INFO"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  monitoring:
+    enabled: true
+    alert_thresholds:
+      data_freshness_hours: 12
+      pipeline_success_rate: 0.98
+      cost_per_day_eur: 500
+
+production:
+  project_id: "itp-data-platform-prod"
+  region: "europe-west1"
+  datasets:
+    raw: "prod_raw"
+    staging: "prod_staging"
+    warehouse: "prod_warehouse"
+    analytics: "prod_analytics"
+  storage:
+    data_lake_bucket: "itp-data-platform-prod-data-lake"
+    temp_bucket: "itp-data-platform-prod-temp"
+  pubsub:
+    financial_topic: "prod-financial-stream"
+    monitoring_topic: "prod-monitoring"
+  logging:
+    level: "WARNING"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  monitoring:
+    enabled: true
+    alert_thresholds:
+      data_freshness_hours: 6
+      pipeline_success_rate: 0.99
+      cost_per_day_eur: 1500

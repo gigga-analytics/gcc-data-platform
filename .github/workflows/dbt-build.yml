@@ -1,7 +1,47 @@
 name: dbt Build
-on: [push]
+
+on:
+  push:
+    branches: [main, develop]
+    paths:
+      - 'dbt-models/**'
+  pull_request:
+    paths:
+      - 'dbt-models/**'
+
 jobs:
-  dbt:
+  dbt-build:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v3
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dbt
+      run: |
+        pip install dbt-bigquery
+    
+    - name: Authenticate to Google Cloud
+      uses: google-github-actions/auth@v1
+      with:
+        credentials_json: ${{ secrets.GCP_SA_KEY }}
+    
+    - name: dbt deps
+      run: |
+        cd dbt-models
+        dbt deps
+    
+    - name: dbt run
+      run: |
+        cd dbt-models
+        dbt run --target dev
+    
+    - name: dbt test
+      run: |
+        cd dbt-models
+        dbt test --target dev

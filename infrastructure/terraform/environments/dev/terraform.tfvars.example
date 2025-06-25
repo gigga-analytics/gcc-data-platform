@@ -1,0 +1,60 @@
+# This Terraform module sets up monitoring and alerting for the data platform on Google Cloud Platform (GCP).
+# It includes IAM roles and permissions necessary for the monitoring and alerting system to function correctly.
+# The module is designed to be reusable and configurable for different environments.
+# It is part of a larger infrastructure setup for a data platform.
+# The module requires the GCP provider to be configured with the necessary credentials and project information.
+
+
+
+project_id = "itp-data-platform-dev"
+region     = "europe-west1"
+
+bigquery_datasets = {
+  raw = {
+    location                    = "EU"
+    delete_contents_on_destroy  = true
+    default_table_expiration_ms = null
+  }
+  staging = {
+    location                    = "EU"
+    delete_contents_on_destroy  = true
+    default_table_expiration_ms = 2592000000 # 30 days
+  }
+  warehouse = {
+    location                    = "EU"
+    delete_contents_on_destroy  = false
+    default_table_expiration_ms = null
+  }
+  analytics = {
+    location                    = "EU"
+    delete_contents_on_destroy  = false
+    default_table_expiration_ms = null
+  }
+}
+
+storage_buckets = {
+  data-lake = {
+    location      = "EU"
+    storage_class = "STANDARD"
+    lifecycle_rules = [
+      {
+        condition = { age = 30 }
+        action    = { type = "SetStorageClass", storage_class = "NEARLINE" }
+      },
+      {
+        condition = { age = 90 }
+        action    = { type = "SetStorageClass", storage_class = "COLDLINE" }
+      }
+    ]
+  }
+  temp = {
+    location      = "EU"
+    storage_class = "STANDARD"
+    lifecycle_rules = [
+      {
+        condition = { age = 7 }
+        action    = { type = "Delete" }
+      }
+    ]
+  }
+}
