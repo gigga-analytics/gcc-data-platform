@@ -1,0 +1,66 @@
+version: 2
+
+sources:
+  - name: warehouse
+    description: Main data warehouse tables
+    tables:
+      - name: financial_transactions
+        description: Financial transaction data from ERP systems
+        columns:
+          - name: transaction_id
+            description: Unique transaction identifier
+            tests:
+              - unique
+              - not_null
+          - name: transaction_date
+            description: Date of transaction
+            tests:
+              - not_null
+              - dbt_utils.expression_is_true:
+                  expression: ">= '2020-01-01'"
+          - name: business_unit
+            description: Business unit responsible for transaction
+            tests:
+              - not_null
+              - accepted_values:
+                  values: ['Digital Products', 'Consulting', 'Innovation', 'Internal']
+          - name: transaction_type
+            description: Type of transaction
+            tests:
+              - not_null
+              - accepted_values:
+                  values: ['REVENUE', 'EXPENSE', 'TRANSFER']
+          - name: amount
+            description: Transaction amount in EUR
+            tests:
+              - not_null
+              - dbt_utils.expression_is_true:
+                  expression: "> 0"
+          - name: customer_id
+            description: Customer identifier for revenue transactions
+        tests:
+          - dbt_utils.recency:
+              datepart: hour
+              field: transaction_date
+              interval: 24
+              
+      - name: customers
+        description: Customer master data from CRM
+        columns:
+          - name: customer_id
+            description: Unique customer identifier
+            tests:
+              - unique
+              - not_null
+          - name: customer_name
+            description: Customer company name
+            tests:
+              - not_null
+          - name: email_address
+            description: Primary contact email
+            tests:
+              - not_null
+              - dbt_utils.expression_is_true:
+                  expression: "REGEXP_CONTAINS(email_address, r'^[^@]+@[^@]+\.[^@]+
+
+        

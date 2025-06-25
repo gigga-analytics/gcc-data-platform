@@ -1,3 +1,91 @@
-bigquery:
-  method: service-account
-  project: <project_id>
+# External System Connections Configuration
+# Note: Actual credentials should be stored in Google Secret Manager
+
+financial_systems:
+  erp_system:
+    type: "rest_api"
+    base_url: "${ERP_API_URL}"
+    authentication:
+      type: "bearer_token"
+      token_secret: "projects/${PROJECT_ID}/secrets/erp-api-token/versions/latest"
+    rate_limits:
+      requests_per_minute: 60
+      batch_size: 1000
+    retry_config:
+      max_retries: 3
+      backoff_factor: 2
+      retry_codes: [429, 500, 502, 503, 504]
+
+  accounting_system:
+    type: "rest_api"
+    base_url: "${ACCOUNTING_API_URL}"
+    authentication:
+      type: "oauth2"
+      client_id_secret: "projects/${PROJECT_ID}/secrets/accounting-client-id/versions/latest"
+      client_secret_secret: "projects/${PROJECT_ID}/secrets/accounting-client-secret/versions/latest"
+    endpoints:
+      transactions: "/api/v1/transactions"
+      customers: "/api/v1/customers"
+      invoices: "/api/v1/invoices"
+
+crm_systems:
+  hubspot:
+    type: "rest_api"
+    base_url: "https://api.hubapi.com"
+    authentication:
+      type: "api_key"
+      api_key_secret: "projects/${PROJECT_ID}/secrets/hubspot-api-key/versions/latest"
+    endpoints:
+      contacts: "/crm/v3/objects/contacts"
+      companies: "/crm/v3/objects/companies"
+      deals: "/crm/v3/objects/deals"
+    sync_frequency: "hourly"
+
+  salesforce:
+    type: "rest_api"
+    base_url: "${SALESFORCE_INSTANCE_URL}"
+    authentication:
+      type: "oauth2"
+      client_id_secret: "projects/${PROJECT_ID}/secrets/salesforce-client-id/versions/latest"
+      client_secret_secret: "projects/${PROJECT_ID}/secrets/salesforce-client-secret/versions/latest"
+      username_secret: "projects/${PROJECT_ID}/secrets/salesforce-username/versions/latest"
+      password_secret: "projects/${PROJECT_ID}/secrets/salesforce-password/versions/latest"
+
+marketing_systems:
+  google_analytics:
+    type: "google_api"
+    service_account_key_secret: "projects/${PROJECT_ID}/secrets/ga4-service-account/versions/latest"
+    property_id: "${GA4_PROPERTY_ID}"
+    
+  linkedin_ads:
+    type: "rest_api"
+    base_url: "https://api.linkedin.com/v2"
+    authentication:
+      type: "oauth2"
+      access_token_secret: "projects/${PROJECT_ID}/secrets/linkedin-access-token/versions/latest"
+    
+  mailchimp:
+    type: "rest_api"
+    base_url: "https://${MAILCHIMP_DC}.api.mailchimp.com/3.0"
+    authentication:
+      type: "api_key"
+      api_key_secret: "projects/${PROJECT_ID}/secrets/mailchimp-api-key/versions/latest"
+
+notifications:
+  slack:
+    webhook_url_secret: "projects/${PROJECT_ID}/secrets/slack-webhook-url/versions/latest"
+    channels:
+      alerts: "#data-platform-alerts"
+      monitoring: "#data-platform-monitoring"
+      general: "#data-platform"
+  
+  email:
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    username_secret: "projects/${PROJECT_ID}/secrets/email-username/versions/latest"
+    password_secret: "projects/${PROJECT_ID}/secrets/email-password/versions/latest"
+    from_address: "data-platform@inthepocket.com"
+    
+  pagerduty:
+    integration_key_secret: "projects/${PROJECT_ID}/secrets/pagerduty-integration-key/versions/latest"
+    service_id: "${PAGERDUTY_SERVICE_ID}"

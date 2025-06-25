@@ -1,7 +1,40 @@
 name: Terraform Plan
-on: [push]
+
+on:
+  pull_request:
+    paths:
+      - 'infrastructure/terraform/**'
+
+env:
+  TF_VERSION: '1.5.0'
+
 jobs:
-  terraform:
+  terraform-plan:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        environment: [dev, staging, prod]
+    
     steps:
-      - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v3
+    
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v2
+      with:
+        terraform_version: ${{ env.TF_VERSION }}
+    
+    - name: Authenticate to Google Cloud
+      uses: google-github-actions/auth@v1
+      with:
+        credentials_json: ${{ secrets.GCP_SA_KEY }}
+    
+    - name: Terraform Init
+      run: |
+        cd infrastructure/terraform/environments/${{ matrix.environment }}
+        terraform init
+    
+    - name: Terraform Plan
+      run: |
+        cd infrastructure/terraform/environments/${{ matrix.environment }}
+        terraform plan -no-color
