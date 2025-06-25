@@ -68,6 +68,32 @@ itp-data-platform/
 
 
 
+## 📞 Support
+For questions or issues, contact the Data Engineering team.
+
+- 🌐 **Website**: https://www.giggabytes.eu
+- 📧 **Email**: team@giggabytes.eu
+- 🐙 **GitHub**: [@giga-analytics](https://github.com/gigga-analytics)
+- 🐦 **Twitter**: [@giggbytesaAI](https://twitter.com/giggabytesAI)
+- 💼 **LinkedIn**: [giggabytes Analytics](https://linkedin.com/company/giggabytes-analytics)
+
+---
+
+<div align="center">
+
+### **⭐ If this project helps you, please give it a star! ⭐**
+
+**Built with ❤️ for the maritime industry**
+
+*Empowering sustainable shipping through advanced analytics and AI*
+
+[![GitHub stars](https://img.shields.io/github/stars/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/watchers)
+
+
+
+
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Data Sources  │────│  Ingestion      │────│  Storage &      │
@@ -93,25 +119,4 @@ itp-data-platform/
 
 
 
-## 📞 Support
-For questions or issues, contact the Data Engineering team.
 
-- 🌐 **Website**: https://www.giggabytes.eu
-- 📧 **Email**: team@giggabytes.eu
-- 🐙 **GitHub**: [@giga-analytics](https://github.com/gigga-analytics)
-- 🐦 **Twitter**: [@giggbytesaAI](https://twitter.com/giggabytesAI)
-- 💼 **LinkedIn**: [giggabytes Analytics](https://linkedin.com/company/giggabytes-analytics)
-
----
-
-<div align="center">
-
-### **⭐ If this project helps you, please give it a star! ⭐**
-
-**Built with ❤️ for the maritime industry**
-
-*Empowering sustainable shipping through advanced analytics and AI*
-
-[![GitHub stars](https://img.shields.io/github/stars/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/maritime-analytics/maritime-emissions-analytics?style=social)](https://github.com/maritime-analytics/maritime-emissions-analytics/watchers)
