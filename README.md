@@ -43,6 +43,31 @@ dbt deps
 dbt run
 ```
 
+
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Data Sources  │────│  Ingestion      │────│  Storage &      │
+│                 │    │  Layer          │    │  Processing     │
+│ • Financial     │    │ • Cloud         │    │ • BigQuery      │
+│   Systems       │    │   Functions     │    │ • Cloud         │
+│ • CRM/ERP       │    │ • Pub/Sub       │    │   Storage       │
+│ • Marketing     │    │ • Dataflow      │    │ • Dataform      │
+│ • Operations    │    │ • Cloud         │    │                 │
+│                 │    │   Composer      │    │                 │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+                                                       │
+┌─────────────────┐    ┌─────────────────┐            │
+│  Visualization  │────│  Analytics      │────────────┘
+│                 │    │  Layer          │
+│ • Looker Studio │    │ • BigQuery ML   │
+│ • Tableau       │    │ • Dataform      │
+│ • Custom Apps   │    │ • dbt Cloud     │
+└─────────────────┘    └─────────────────┘
+```
+
+
+
+
 ## 📁 Repository Structure
 ```
 itp-data-platform/
@@ -53,6 +78,10 @@ itp-data-platform/
 ├── docs/                   # Documentation
 └── scripts/                # Utility scripts
 ```
+
+
+
+
 
 ## 🔧 Development
 - [Architecture Documentation](docs/architecture/)
@@ -93,27 +122,6 @@ For questions or issues, contact the Data Engineering team.
 
 
 
-
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Data Sources  │────│  Ingestion      │────│  Storage &      │
-│                 │    │  Layer          │    │  Processing     │
-│ • Financial     │    │ • Cloud         │    │ • BigQuery      │
-│   Systems       │    │   Functions     │    │ • Cloud         │
-│ • CRM/ERP       │    │ • Pub/Sub       │    │   Storage       │
-│ • Marketing     │    │ • Dataflow      │    │ • Dataform      │
-│ • Operations    │    │ • Cloud         │    │                 │
-│                 │    │   Composer      │    │                 │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                                       │
-┌─────────────────┐    ┌─────────────────┐            │
-│  Visualization  │────│  Analytics      │────────────┘
-│                 │    │  Layer          │
-│ • Looker Studio │    │ • BigQuery ML   │
-│ • Tableau       │    │ • Dataform      │
-│ • Custom Apps   │    │ • dbt Cloud     │
-└─────────────────┘    └─────────────────┘
-```
 
 
 
