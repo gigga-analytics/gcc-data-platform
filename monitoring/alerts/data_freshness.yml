@@ -1,1 +1,41 @@
-alert: Data Freshness
+alerts:
+  - name: "financial_data_freshness"
+    description: "Alert when financial data is stale"
+    metric: "custom.googleapis.com/data_freshness_hours"
+    threshold: 24
+    comparison: ">"
+    duration: "300s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#data-platform"
+    severity: "critical"
+    labels:
+      dataset: "warehouse"
+      table: "financial_transactions"
+    
+  - name: "customer_data_freshness"
+    description: "Alert when customer data is stale"
+    metric: "custom.googleapis.com/data_freshness_hours"
+    threshold: 48
+    comparison: ">"
+    duration: "600s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+    severity: "warning"
+    labels:
+      dataset: "warehouse"
+      table: "customers"
+      
+  - name: "analytics_data_freshness"
+    description: "Alert when analytics data is stale"
+    metric: "custom.googleapis.com/data_freshness_hours"
+    threshold: 12
+    comparison: ">"
+    duration: "300s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#data-platform"
+    severity: "warning"
+    labels:
+      dataset: "analytics"
+      table: "executive_summary"

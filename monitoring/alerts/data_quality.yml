@@ -1,1 +1,43 @@
-alert: Data Quality
+alerts:
+  - name: "data_quality_score_low"
+    description: "Alert when overall data quality score drops below threshold"
+    metric: "custom.googleapis.com/data_quality_score"
+    threshold: 0.85
+    comparison: "<"
+    duration: "300s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#data-platform"
+    severity: "warning"
+    
+  - name: "data_completeness_critical"
+    description: "Alert when data completeness drops critically"
+    metric: "custom.googleapis.com/data_completeness"
+    threshold: 0.7
+    comparison: "<"
+    duration: "300s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#incidents"
+    severity: "critical"
+    
+  - name: "duplicate_records_high"
+    description: "Alert when duplicate records exceed threshold"
+    metric: "custom.googleapis.com/duplicate_rate"
+    threshold: 0.05
+    comparison: ">"
+    duration: "600s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+    severity: "warning"
+    
+  - name: "schema_drift_detected"
+    description: "Alert when schema changes are detected"
+    metric: "custom.googleapis.com/schema_changes"
+    threshold: 0
+    comparison: ">"
+    duration: "60s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#data-platform"
+    severity: "info"
