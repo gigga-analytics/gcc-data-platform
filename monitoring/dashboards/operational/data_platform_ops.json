@@ -1,0 +1,129 @@
+{
+  "displayName": "Data Platform - Operational Dashboard",
+  "mosaicLayout": {
+    "tiles": [
+      {
+        "width": 6,
+        "height": 4,
+        "widget": {
+          "title": "Pipeline Success Rate (24h)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "timeSeriesFilter": {
+                "filter": "metric.type=\"custom.googleapis.com/pipeline_success_rate\"",
+                "aggregation": {
+                  "alignmentPeriod": "3600s",
+                  "perSeriesAligner": "ALIGN_MEAN"
+                }
+              }
+            },
+            "gaugeView": {
+              "lowerBound": 0.0,
+              "upperBound": 1.0
+            },
+            "sparkChartView": {
+              "sparkChartType": "SPARK_LINE"
+            }
+          }
+        }
+      },
+      {
+        "width": 6,
+        "height": 4,
+        "xPos": 6,
+        "widget": {
+          "title": "Data Freshness (Hours)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"custom.googleapis.com/data_freshness_hours\""
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ],
+            "yAxis": {
+              "label": "Hours",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "width": 12,
+        "height": 4,
+        "yPos": 4,
+        "widget": {
+          "title": "BigQuery Slot Utilization",
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"bigquery.googleapis.com/slots/total_allocated\""
+                  }
+                },
+                "plotType": "STACKED_AREA"
+              }
+            ],
+            "yAxis": {
+              "label": "Slots",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "width": 6,
+        "height": 4,
+        "yPos": 8,
+        "widget": {
+          "title": "Cloud Function Executions",
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"cloudfunctions.googleapis.com/function/execution_count\""
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ],
+            "yAxis": {
+              "label": "Executions",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "width": 6,
+        "height": 4,
+        "xPos": 6,
+        "yPos": 8,
+        "widget": {
+          "title": "Storage Usage",
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "metric.type=\"storage.googleapis.com/storage/total_bytes\""
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ],
+            "yAxis": {
+              "label": "Bytes",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

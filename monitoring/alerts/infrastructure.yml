@@ -1,1 +1,55 @@
-alert: Infra
+alerts:
+  - name: "bigquery_slot_utilization_high"
+    description: "Alert when BigQuery slot utilization is high"
+    metric: "bigquery.googleapis.com/slots/total_allocated"
+    threshold: 2000
+    comparison: ">"
+    duration: "300s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+    severity: "warning"
+    
+  - name: "cloud_function_errors_high"
+    description: "Alert when Cloud Function error rate is high"
+    metric: "cloudfunctions.googleapis.com/function/execution_count"
+    threshold: 10
+    comparison: ">"
+    duration: "300s"
+    filter: 'resource.labels.function_name=~".*" AND metric.labels.status!="ok"'
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#data-platform"
+    severity: "critical"
+    
+  - name: "storage_costs_high"
+    description: "Alert when storage costs exceed budget"
+    metric: "billing.googleapis.com/billing/total_cost"
+    threshold: 200
+    comparison: ">"
+    duration: "3600s"
+    filter: 'resource.labels.service="Cloud Storage"'
+    notification_channels:
+      - "finance@inthepocket.com"
+      - "data-engineering@inthepocket.com"
+    severity: "warning"
+    
+  - name: "dataflow_job_failures"
+    description: "Alert when Dataflow jobs fail"
+    metric: "dataflow.googleapis.com/job/is_failed"
+    threshold: 0
+    comparison: ">"
+    duration: "60s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+      - "#incidents"
+    severity: "critical"
+    
+  - name: "pubsub_message_backlog"
+    description: "Alert when Pub/Sub message backlog is high"
+    metric: "pubsub.googleapis.com/subscription/num_undelivered_messages"
+    threshold: 1000
+    comparison: ">"
+    duration: "600s"
+    notification_channels:
+      - "data-engineering@inthepocket.com"
+    severity: "warning"

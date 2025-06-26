@@ -1,0 +1,87 @@
+{
+  "displayName": "Executive KPIs Dashboard",
+  "mosaicLayout": {
+    "tiles": [
+      {
+        "width": 4,
+        "height": 3,
+        "widget": {
+          "title": "Monthly Revenue",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "timeSeriesFilter": {
+                "filter": "resource.type=\"bigquery_table\" AND resource.labels.table_id=\"monthly_revenue\"",
+                "aggregation": {
+                  "alignmentPeriod": "86400s",
+                  "perSeriesAligner": "ALIGN_SUM"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "width": 4,
+        "height": 3,
+        "xPos": 4,
+        "widget": {
+          "title": "New Customers",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "timeSeriesFilter": {
+                "filter": "resource.type=\"bigquery_table\" AND resource.labels.table_id=\"customers\"",
+                "aggregation": {
+                  "alignmentPeriod": "86400s",
+                  "perSeriesAligner": "ALIGN_COUNT"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "width": 4,
+        "height": 3,
+        "xPos": 8,
+        "widget": {
+          "title": "Active Projects",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "timeSeriesFilter": {
+                "filter": "resource.type=\"bigquery_table\" AND resource.labels.table_id=\"projects\"",
+                "aggregation": {
+                  "alignmentPeriod": "86400s",
+                  "perSeriesAligner": "ALIGN_COUNT"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "width": 12,
+        "height": 6,
+        "yPos": 3,
+        "widget": {
+          "title": "Revenue Trend by Business Unit",
+          "xyChart": {
+            "dataSets": [
+              {
+                "timeSeriesQuery": {
+                  "timeSeriesFilter": {
+                    "filter": "resource.type=\"bigquery_table\" AND resource.labels.table_id=\"monthly_revenue\""
+                  }
+                },
+                "plotType": "LINE"
+              }
+            ],
+            "yAxis": {
+              "label": "Revenue (EUR)",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

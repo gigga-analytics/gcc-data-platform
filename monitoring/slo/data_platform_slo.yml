@@ -1,2 +1,49 @@
-slo:
-  - data_availability: 99.9
+slos:
+  - name: "data_freshness_slo"
+    description: "99% of critical data should be fresh within 4 hours"
+    objective: 0.99
+    period: "30d"
+    indicator:
+      metric: "custom.googleapis.com/data_freshness_hours"
+      threshold: 4
+      comparison: "<="
+    labels:
+      tier: "critical"
+    
+  - name: "pipeline_reliability_slo"
+    description: "99.5% of pipeline executions should succeed"
+    objective: 0.995
+    period: "30d"
+    indicator:
+      metric: "custom.googleapis.com/pipeline_success_rate"
+      threshold: 1.0
+      comparison: "=="
+    
+  - name: "query_performance_slo"
+    description: "90% of dashboard queries should complete within 30 seconds"
+    objective: 0.90
+    period: "7d"
+    indicator:
+      metric: "bigquery.googleapis.com/job/execution_time"
+      threshold: 30
+      comparison: "<="
+    labels:
+      query_type: "dashboard"
+    
+  - name: "data_quality_slo"
+    description: "95% data quality score maintained"
+    objective: 0.95
+    period: "30d"
+    indicator:
+      metric: "custom.googleapis.com/data_quality_score"
+      threshold: 0.95
+      comparison: ">="
+    
+  - name: "cost_efficiency_slo"
+    description: "Processing cost should not exceed €50 per TB"
+    objective: 1.0
+    period: "30d"
+    indicator:
+      metric: "custom.googleapis.com/cost_per_tb_eur"
+      threshold: 50
+      comparison: "<="
