@@ -1,0 +1,301 @@
+AssetID,Description,PurchaseDate,OriginalCost,DepreciationMethod,DepreciationRate,NetBookValue,CostCenterID
+A0001,Team-oriented directional application,2025-04-16,30529.87,Declining Balance,10,30529.87,CC011
+A0002,Le pouvoir de concrétiser vos projets de manière sûre,2021-08-27,42924.33,Declining Balance,20,8584.87,CC004
+A0003,Grass-roots even-keeled knowledgebase,2017-04-22,31632.42,Declining Balance,10,6326.48,CC003
+A0004,Reactive disintermediate open architecture,2018-07-11,8659.5,Declining Balance,20,0.0,CC006
+A0005,Re-contextualized directional service-desk,2022-10-07,13687.63,Straight Line,20,5475.05,CC010
+A0006,Extended 5thgeneration installation,2019-12-03,46172.51,Declining Balance,25,0.0,CC010
+A0007,Triple-buffered modular moderator,2025-03-25,10919.12,Declining Balance,25,10919.12,CC005
+A0008,Extended uniform archive,2025-06-23,36273.33,Straight Line,20,36273.33,CC011
+A0009,Profit-focused encompassing intranet,2020-12-16,24344.99,Straight Line,20,0.0,CC018
+A0010,La possibilité d'avancer de manière efficace,2017-07-20,40749.14,Straight Line,10,8149.83,CC002
+A0011,Le plaisir d'atteindre vos buts en toute tranquilité,2016-12-13,18974.26,Declining Balance,20,0.0,CC002
+A0012,User-friendly 24hour standardization,2019-08-10,41113.39,Declining Balance,10,16445.36,CC017
+A0013,Public-key tangible capacity,2021-05-19,21343.21,Declining Balance,10,12805.93,CC011
+A0014,Optimized context-sensitive monitoring,2021-03-15,11200.63,Declining Balance,20,2240.13,CC010
+A0015,Optimized maximized firmware,2022-12-26,12754.46,Declining Balance,20,5101.78,CC008
+A0016,Proactive foreground Graphic Interface,2023-03-26,25146.99,Straight Line,10,20117.59,CC018
+A0017,Fully-configurable stable adapter,2016-07-17,26520.98,Straight Line,25,0.0,CC018
+A0018,Robust mission-critical artificial intelligence,2021-02-27,6307.96,Declining Balance,20,1261.59,CC002
+A0019,User-centric uniform concept,2016-11-10,8955.24,Straight Line,20,0.0,CC003
+A0020,Le droit d'évoluer en toute tranquilité,2021-04-23,48872.71,Declining Balance,10,29323.63,CC020
+A0021,Open-source reciprocal orchestration,2015-09-01,5998.46,Declining Balance,20,0.0,CC019
+A0022,Virtual context-sensitive definition,2023-08-07,27927.41,Declining Balance,10,22341.93,CC004
+A0023,Reduced high-level frame,2019-06-03,49020.78,Straight Line,25,0.0,CC001
+A0024,Multi-layered next generation parallelism,2023-09-23,30699.36,Straight Line,25,15349.68,CC006
+A0025,Visionary incremental challenge,2021-03-22,34356.34,Declining Balance,20,6871.27,CC008
+A0026,Assimilated non-volatile encryption,2016-06-07,34336.51,Straight Line,25,0.0,CC008
+A0027,Intuitive intangible time-frame,2018-07-15,6689.95,Declining Balance,10,2006.98,CC006
+A0028,Multi-lateral modular toolset,2023-05-14,31634.47,Straight Line,10,25307.58,CC004
+A0029,Devolved dedicated orchestration,2016-03-26,6822.12,Declining Balance,10,682.21,CC005
+A0030,Configurable motivating contingency,2022-05-14,28221.74,Straight Line,20,11288.7,CC013
+A0031,Synergized human-resource conglomeration,2016-07-15,37047.55,Straight Line,20,0.0,CC018
+A0032,Streamlined asymmetric projection,2019-10-25,36768.85,Declining Balance,25,0.0,CC003
+A0033,Advanced disintermediate secured line,2019-11-09,8987.39,Straight Line,25,0.0,CC004
+A0034,Fundamental high-level Internet solution,2018-11-27,38677.56,Straight Line,20,0.0,CC016
+A0035,La liberté de concrétiser vos projets avant-tout,2016-05-03,21609.79,Straight Line,25,0.0,CC013
+A0036,Universal logistical firmware,2018-02-05,18568.37,Straight Line,10,5570.51,CC009
+A0037,Ameliorated upward-trending emulation,2019-11-04,16679.51,Straight Line,10,6671.8,CC020
+A0038,Robust well-modulated product,2024-12-24,32936.18,Straight Line,10,29642.56,CC009
+A0039,De-engineered high-level middleware,2024-02-05,30974.72,Straight Line,20,24779.78,CC002
+A0040,Exclusive 24/7 matrices,2023-07-23,19685.68,Straight Line,10,15748.54,CC004
+A0041,Profound system-worthy product,2018-04-02,41164.38,Straight Line,20,0.0,CC008
+A0042,L'assurance de changer naturellement,2023-08-07,41841.06,Declining Balance,25,20920.53,CC006
+A0043,Horizontal methodical neural-net,2016-04-23,46130.59,Declining Balance,25,0.0,CC017
+A0044,Digitized value-added forecast,2024-08-28,35463.84,Straight Line,10,31917.46,CC020
+A0045,Enhanced heuristic product,2020-08-12,41519.6,Straight Line,25,0.0,CC006
+A0046,Le plaisir d'avancer de manière efficace,2022-02-21,28829.21,Declining Balance,10,20180.45,CC009
+A0047,La liberté de concrétiser vos projets à sa source,2020-10-28,5667.2,Declining Balance,25,0.0,CC018
+A0048,Configurable asymmetric access,2018-10-01,21761.58,Declining Balance,10,6528.47,CC008
+A0049,Polarized dedicated infrastructure,2016-05-09,15507.65,Declining Balance,20,0.0,CC017
+A0050,Right-sized 24/7 help-desk,2015-10-06,46191.35,Declining Balance,25,0.0,CC018
+A0051,Ameliorated 5thgeneration monitoring,2015-07-15,10111.43,Straight Line,10,0.0,CC002
+A0052,Mandatory solution-oriented firmware,2018-05-10,42860.65,Declining Balance,25,0.0,CC009
+A0053,Intuitive optimizing open architecture,2023-01-23,14125.72,Declining Balance,25,7062.86,CC008
+A0054,L'avantage de rouler à l'état pur,2019-05-10,26644.78,Declining Balance,25,0.0,CC002
+A0055,User-friendly reciprocal complexity,2017-07-20,17105.52,Straight Line,10,3421.1,CC014
+A0056,Le pouvoir d'atteindre vos buts de manière sûre,2024-12-15,18691.06,Declining Balance,25,14018.3,CC017
+A0057,Compatible scalable access,2015-08-30,20132.91,Straight Line,10,0.0,CC013
+A0058,Persistent 3rdgeneration architecture,2016-10-10,18975.5,Straight Line,25,0.0,CC005
+A0059,Front-line web-enabled implementation,2020-09-04,45216.81,Declining Balance,10,22608.4,CC009
+A0060,Le plaisir de concrétiser vos projets sans soucis,2021-08-21,48155.38,Straight Line,20,9631.08,CC012
+A0061,Digitized logistical orchestration,2021-05-30,33440.8,Declining Balance,20,6688.16,CC005
+A0062,Reactive actuating toolset,2018-03-25,28212.94,Straight Line,20,0.0,CC007
+A0063,Reactive explicit algorithm,2025-05-06,17403.79,Straight Line,20,17403.79,CC012
+A0064,Face-to-face empowering capability,2016-01-25,22086.0,Straight Line,25,0.0,CC017
+A0065,L'art d'avancer avant-tout,2019-10-05,23660.73,Straight Line,20,0.0,CC008
+A0066,Virtual 3rdgeneration system engine,2025-05-03,28993.47,Declining Balance,10,28993.47,CC006
+A0067,Robust stable encoding,2019-04-10,24817.78,Declining Balance,20,0.0,CC018
+A0068,Intuitive eco-centric parallelism,2022-02-09,12200.61,Straight Line,20,4880.24,CC009
+A0069,Innovative radical policy,2022-04-16,24692.76,Straight Line,25,6173.19,CC019
+A0070,Public-key real-time process improvement,2018-05-31,32181.1,Declining Balance,20,0.0,CC001
+A0071,Synergized demand-driven protocol,2015-12-03,6516.23,Declining Balance,10,0.0,CC019
+A0072,Optional content-based firmware,2018-05-29,7119.99,Declining Balance,10,2136.0,CC015
+A0073,Le plaisir de louer à l'état pur,2023-05-02,8495.08,Straight Line,10,6796.06,CC014
+A0074,Enterprise-wide optimizing support,2020-08-22,15199.54,Straight Line,10,7599.77,CC004
+A0075,Function-based discrete algorithm,2020-05-26,24056.7,Straight Line,25,0.0,CC018
+A0076,Reactive global moderator,2022-06-16,9036.38,Declining Balance,25,2259.09,CC005
+A0077,Innovative analyzing extranet,2024-05-29,39529.95,Straight Line,25,29647.46,CC002
+A0078,Managed static array,2023-06-01,36362.5,Declining Balance,10,29090.0,CC014
+A0079,Reduced bi-directional array,2021-04-07,17227.25,Straight Line,20,3445.45,CC003
+A0080,Reduced solution-oriented contingency,2021-03-25,26376.66,Straight Line,10,15826.0,CC012
+A0081,Expanded transitional functionalities,2015-12-19,17969.89,Straight Line,20,0.0,CC007
+A0082,La possibilité d'évoluer plus rapidement,2022-07-20,29129.71,Straight Line,10,20390.8,CC013
+A0083,Polarized full-range parallelism,2022-10-25,46400.77,Declining Balance,20,18560.31,CC019
+A0084,Face-to-face cohesive structure,2018-06-30,30735.05,Declining Balance,20,0.0,CC017
+A0085,Assimilated bandwidth-monitored adapter,2018-10-19,18296.34,Declining Balance,10,5488.9,CC014
+A0086,Switchable hybrid framework,2019-06-28,47145.13,Declining Balance,10,18858.05,CC006
+A0087,Cross-group contextually-based extranet,2016-02-21,19995.44,Straight Line,20,0.0,CC016
+A0088,Synergistic coherent moderator,2015-07-04,23721.43,Straight Line,20,0.0,CC011
+A0089,La liberté d'innover plus facilement,2016-10-08,42459.53,Declining Balance,10,4245.95,CC015
+A0090,La possibilité d'évoluer de manière sûre,2021-02-09,28468.74,Declining Balance,25,0.0,CC017
+A0091,Visionary solution-oriented ability,2023-09-05,37801.15,Declining Balance,25,18900.58,CC012
+A0092,Balanced leadingedge orchestration,2023-04-28,47111.97,Declining Balance,10,37689.58,CC010
+A0093,La possibilité de concrétiser vos projets naturellement,2020-09-09,36918.14,Declining Balance,10,18459.07,CC012
+A0094,Enhanced tertiary parallelism,2023-03-15,44325.4,Straight Line,25,22162.7,CC001
+A0095,Team-oriented tangible product,2020-04-02,40909.23,Declining Balance,10,20454.61,CC002
+A0096,Business-focused impactful Internet solution,2015-11-11,21229.1,Declining Balance,10,0.0,CC003
+A0097,Upgradable discrete data-warehouse,2022-08-04,34892.39,Straight Line,20,13956.96,CC012
+A0098,Organized encompassing application,2023-10-02,37810.17,Declining Balance,20,22686.1,CC013
+A0099,Managed reciprocal productivity,2020-09-01,45130.82,Straight Line,25,0.0,CC008
+A0100,Monitored 3rdgeneration infrastructure,2018-06-02,5073.03,Declining Balance,20,0.0,CC020
+A0101,Exclusive systematic knowledge user,2018-01-26,26830.73,Straight Line,10,8049.22,CC002
+A0102,Profound executive encryption,2023-06-07,23780.3,Straight Line,20,14268.18,CC005
+A0103,La possibilité de louer autrement,2025-06-20,35626.11,Straight Line,25,35626.11,CC013
+A0104,L'assurance de concrétiser vos projets naturellement,2015-08-04,39167.68,Straight Line,20,0.0,CC007
+A0105,Le plaisir d'innover de manière efficace,2018-01-31,17776.12,Declining Balance,20,0.0,CC018
+A0106,Universal bi-directional solution,2022-06-24,19664.79,Straight Line,25,4916.2,CC013
+A0107,Function-based 24/7 encoding,2022-04-12,36581.69,Straight Line,10,25607.18,CC018
+A0108,Intuitive 24/7 architecture,2021-01-14,33932.49,Declining Balance,20,6786.5,CC011
+A0109,Sharable systematic data-warehouse,2024-05-07,5272.41,Straight Line,10,4745.17,CC017
+A0110,Persistent upward-trending utilization,2024-06-09,40105.0,Straight Line,10,36094.5,CC006
+A0111,Business-focused responsive interface,2021-01-22,46707.56,Straight Line,10,28024.54,CC002
+A0112,Automated web-enabled productivity,2016-05-28,33677.94,Straight Line,25,0.0,CC010
+A0113,Quality-focused heuristic protocol,2017-06-22,44712.07,Straight Line,10,8942.41,CC008
+A0114,Open-source solution-oriented encoding,2015-09-24,47399.41,Straight Line,20,0.0,CC013
+A0115,Future-proofed intangible Local Area Network,2015-12-17,39756.68,Declining Balance,25,0.0,CC009
+A0116,Monitored logistical product,2019-09-06,42914.95,Straight Line,25,0.0,CC001
+A0117,Realigned high-level extranet,2024-08-07,14981.7,Straight Line,20,11985.36,CC004
+A0118,Virtual tangible algorithm,2020-09-02,11065.69,Declining Balance,10,5532.84,CC005
+A0119,Proactive scalable budgetary management,2025-03-08,34630.01,Straight Line,10,34630.01,CC016
+A0120,User-friendly object-oriented extranet,2025-03-01,41337.04,Straight Line,10,41337.04,CC001
+A0121,Cross-platform zero administration benchmark,2016-02-04,20982.92,Straight Line,10,2098.29,CC014
+A0122,Grass-roots client-driven intranet,2016-05-21,11695.77,Straight Line,10,1169.58,CC001
+A0123,Le plaisir d'innover à la pointe,2020-08-20,22156.08,Straight Line,20,0.0,CC013
+A0124,Compatible motivating implementation,2017-01-25,48132.29,Straight Line,20,0.0,CC007
+A0125,Mandatory intangible monitoring,2023-05-09,16301.63,Declining Balance,10,13041.3,CC016
+A0126,Proactive upward-trending adapter,2023-08-22,44215.16,Declining Balance,10,35372.13,CC013
+A0127,Open-source clear-thinking architecture,2019-05-13,47769.84,Declining Balance,20,0.0,CC015
+A0128,Front-line bottom-line budgetary management,2018-03-14,43620.8,Straight Line,25,0.0,CC017
+A0129,Profit-focused discrete productivity,2017-08-28,24378.56,Declining Balance,25,0.0,CC005
+A0130,Secured executive hub,2018-12-31,42630.25,Straight Line,20,0.0,CC005
+A0131,Organic 3rdgeneration pricing structure,2023-10-28,21353.43,Declining Balance,25,10676.72,CC002
+A0132,Ergonomic dynamic matrices,2019-07-25,15813.43,Straight Line,25,0.0,CC012
+A0133,Centralized 24/7 forecast,2019-09-03,40948.96,Straight Line,10,16379.58,CC016
+A0134,Synergized well-modulated definition,2020-11-18,23830.29,Declining Balance,25,0.0,CC013
+A0135,L'assurance de louer de manière efficace,2021-04-25,27643.24,Straight Line,25,0.0,CC004
+A0136,Public-key intermediate ability,2020-04-02,49095.31,Straight Line,20,0.0,CC016
+A0137,Realigned coherent firmware,2016-11-17,38227.47,Declining Balance,20,0.0,CC003
+A0138,Virtual object-oriented methodology,2017-12-23,9761.25,Declining Balance,20,0.0,CC018
+A0139,User-centric asymmetric policy,2020-11-03,49985.96,Straight Line,25,0.0,CC011
+A0140,Right-sized clear-thinking migration,2020-09-13,31831.41,Straight Line,25,0.0,CC012
+A0141,La liberté de changer à sa source,2021-03-02,34025.12,Declining Balance,10,20415.07,CC013
+A0142,Progressive disintermediate moderator,2016-05-02,10689.67,Declining Balance,10,1068.97,CC007
+A0143,Multi-tiered 4thgeneration analyzer,2024-04-01,26662.36,Declining Balance,25,19996.77,CC017
+A0144,Multi-layered methodical Internet solution,2021-02-15,32810.86,Straight Line,20,6562.17,CC003
+A0145,La possibilité d'atteindre vos buts à l'état pur,2022-03-25,9684.49,Declining Balance,25,2421.12,CC013
+A0146,Programmable attitude-oriented parallelism,2019-01-23,9703.09,Straight Line,10,3881.24,CC012
+A0147,Fundamental intermediate interface,2021-08-16,35447.54,Declining Balance,25,0.0,CC007
+A0148,Front-line eco-centric moratorium,2016-03-07,11886.56,Declining Balance,25,0.0,CC020
+A0149,Quality-focused even-keeled customer loyalty,2021-06-18,22200.6,Straight Line,10,13320.36,CC010
+A0150,L'art de rouler en toute tranquilité,2018-10-20,36238.93,Straight Line,25,0.0,CC002
+A0151,Upgradable clear-thinking adapter,2020-05-01,31755.52,Straight Line,10,15877.76,CC002
+A0152,Public-key asynchronous policy,2025-05-21,12835.77,Declining Balance,20,12835.77,CC007
+A0153,Mandatory interactive contingency,2020-02-19,37065.3,Straight Line,10,18532.65,CC015
+A0154,Triple-buffered mission-critical knowledgebase,2023-05-04,6571.11,Declining Balance,10,5256.89,CC002
+A0155,L'avantage de rouler à la pointe,2021-01-14,17326.0,Declining Balance,10,10395.6,CC002
+A0156,Streamlined incremental methodology,2016-11-22,28250.25,Straight Line,20,0.0,CC020
+A0157,Le confort de changer en toute tranquilité,2018-09-05,35592.23,Straight Line,25,0.0,CC011
+A0158,Assimilated needs-based website,2018-03-31,20364.59,Declining Balance,25,0.0,CC002
+A0159,L'art d'avancer avant-tout,2016-05-03,36318.21,Declining Balance,20,0.0,CC003
+A0160,Streamlined hybrid process improvement,2017-07-31,32593.36,Straight Line,10,6518.67,CC010
+A0161,Future-proofed global instruction set,2022-03-04,44939.36,Straight Line,10,31457.55,CC020
+A0162,Le confort de louer de manière sûre,2018-06-26,43126.95,Straight Line,25,0.0,CC003
+A0163,Distributed foreground pricing structure,2023-07-08,45724.94,Declining Balance,10,36579.95,CC002
+A0164,Le droit d'évoluer de manière sûre,2017-08-07,46682.67,Declining Balance,20,0.0,CC015
+A0165,Reverse-engineered analyzing policy,2023-11-03,49073.35,Straight Line,10,39258.68,CC018
+A0166,Cross-group non-volatile analyzer,2024-05-20,24857.25,Declining Balance,25,18642.94,CC005
+A0167,Enhanced national open architecture,2019-04-14,46055.19,Declining Balance,10,18422.08,CC013
+A0168,Le pouvoir de louer autrement,2020-06-16,38032.95,Declining Balance,10,19016.47,CC008
+A0169,Synergistic multimedia software,2020-06-15,42364.57,Declining Balance,20,0.0,CC002
+A0170,Public-key dynamic frame,2020-08-14,32762.3,Declining Balance,25,0.0,CC014
+A0171,Proactive 24/7 help-desk,2018-03-19,49224.8,Declining Balance,10,14767.44,CC011
+A0172,User-friendly contextually-based conglomeration,2018-06-13,49097.76,Straight Line,20,0.0,CC004
+A0173,Universal hybrid array,2019-03-28,12940.58,Declining Balance,25,0.0,CC017
+A0174,Up-sized methodical moderator,2022-03-06,13877.33,Declining Balance,25,3469.33,CC013
+A0175,Progressive regional access,2024-11-07,30712.71,Declining Balance,25,23034.53,CC013
+A0176,Managed content-based core,2021-07-01,29076.29,Declining Balance,10,17445.77,CC012
+A0177,Seamless 6thgeneration protocol,2022-02-06,6654.5,Straight Line,10,4658.15,CC015
+A0178,L'avantage d'évoluer de manière efficace,2025-01-29,30874.38,Straight Line,10,30874.38,CC012
+A0179,Fully-configurable transitional moderator,2020-12-19,27526.62,Straight Line,25,0.0,CC013
+A0180,Intuitive high-level approach,2015-11-04,27934.6,Declining Balance,20,0.0,CC019
+A0181,Triple-buffered grid-enabled moderator,2017-03-13,35422.07,Declining Balance,10,7084.41,CC013
+A0182,Synergized attitude-oriented synergy,2022-12-11,16530.14,Straight Line,25,4132.53,CC020
+A0183,Open-architected value-added forecast,2023-07-05,11023.27,Straight Line,10,8818.62,CC013
+A0184,La liberté d'atteindre vos buts en toute tranquilité,2021-10-21,19371.19,Declining Balance,20,3874.24,CC019
+A0185,Proactive motivating standardization,2018-10-11,26006.37,Declining Balance,20,0.0,CC017
+A0186,Virtual asymmetric archive,2017-03-19,19342.66,Straight Line,25,0.0,CC010
+A0187,Focused composite algorithm,2018-10-24,34683.17,Straight Line,10,10404.95,CC006
+A0188,De-engineered interactive concept,2023-11-30,8750.26,Straight Line,20,5250.16,CC008
+A0189,Automated static hardware,2015-10-23,14843.0,Straight Line,25,0.0,CC006
+A0190,Cross-group real-time workforce,2024-07-23,11278.32,Straight Line,25,8458.74,CC008
+A0191,Seamless secondary support,2024-03-27,28874.31,Straight Line,20,23099.45,CC018
+A0192,Robust homogeneous flexibility,2024-01-27,34713.23,Straight Line,20,27770.58,CC004
+A0193,Versatile national product,2023-08-20,41210.89,Straight Line,25,20605.44,CC013
+A0194,L'assurance de concrétiser vos projets en toute tranquilité,2019-09-19,21581.42,Declining Balance,10,8632.57,CC013
+A0195,Down-sized modular synergy,2017-05-20,48854.09,Declining Balance,25,0.0,CC020
+A0196,Secured background collaboration,2020-01-05,10123.22,Declining Balance,20,0.0,CC005
+A0197,Public-key next generation knowledgebase,2017-01-31,48473.57,Declining Balance,20,0.0,CC002
+A0198,Self-enabling high-level analyzer,2023-08-11,9632.98,Straight Line,20,5779.79,CC014
+A0199,Streamlined well-modulated capability,2018-04-16,5704.57,Declining Balance,20,0.0,CC006
+A0200,Function-based explicit application,2020-05-23,30556.92,Straight Line,10,15278.46,CC005
+A0201,Polarized impactful algorithm,2016-02-15,44755.53,Declining Balance,25,0.0,CC006
+A0202,Vision-oriented leadingedge strategy,2020-04-29,32040.52,Declining Balance,10,16020.26,CC005
+A0203,La possibilité d'innover naturellement,2016-02-26,35269.25,Declining Balance,25,0.0,CC012
+A0204,Synergistic multimedia database,2021-07-16,17961.18,Declining Balance,10,10776.71,CC020
+A0205,Cloned client-driven adapter,2016-10-27,17620.85,Straight Line,20,0.0,CC008
+A0206,Triple-buffered executive analyzer,2018-07-19,7999.67,Straight Line,10,2399.9,CC010
+A0207,L'avantage de changer avant-tout,2023-08-30,9875.82,Straight Line,20,5925.49,CC019
+A0208,Up-sized 24/7 monitoring,2021-03-13,46727.46,Straight Line,10,28036.48,CC005
+A0209,Le pouvoir de concrétiser vos projets plus facilement,2015-07-31,41887.05,Declining Balance,20,0.0,CC014
+A0210,Le pouvoir de concrétiser vos projets de manière efficace,2016-12-17,30552.99,Declining Balance,25,0.0,CC014
+A0211,Adaptive asymmetric implementation,2025-01-27,48724.6,Declining Balance,20,48724.6,CC010
+A0212,Visionary needs-based application,2024-01-04,24146.6,Straight Line,20,19317.28,CC010
+A0213,Optimized actuating structure,2018-04-22,37724.02,Declining Balance,10,11317.21,CC020
+A0214,Le droit d'atteindre vos buts en toute tranquilité,2017-09-24,36704.91,Declining Balance,10,7340.98,CC007
+A0215,Organized hybrid array,2024-08-12,49849.87,Declining Balance,10,44864.88,CC003
+A0216,Centralized systematic help-desk,2018-05-14,38249.46,Declining Balance,25,0.0,CC008
+A0217,Open-architected maximized interface,2023-03-14,19232.2,Straight Line,25,9616.1,CC013
+A0218,Grass-roots system-worthy attitude,2024-11-18,32949.79,Declining Balance,20,26359.83,CC001
+A0219,Customizable systematic frame,2023-01-21,31031.12,Straight Line,20,18618.67,CC001
+A0220,Synchronized clear-thinking functionalities,2021-01-09,34270.85,Declining Balance,20,6854.17,CC019
+A0221,Digitized multi-tasking emulation,2017-01-30,19548.84,Straight Line,25,0.0,CC002
+A0222,Multi-tiered well-modulated moderator,2020-12-21,5918.43,Straight Line,10,2959.22,CC014
+A0223,Public-key zero tolerance functionalities,2015-07-08,5239.41,Declining Balance,20,0.0,CC006
+A0224,Optimized web-enabled complexity,2022-01-01,32189.0,Declining Balance,20,12875.6,CC017
+A0225,La possibilité d'atteindre vos buts plus facilement,2020-06-11,9291.62,Declining Balance,20,0.0,CC007
+A0226,Customizable radical structure,2021-07-08,11621.54,Declining Balance,20,2324.31,CC010
+A0227,Public-key optimal project,2019-02-18,39419.18,Straight Line,20,0.0,CC003
+A0228,Front-line bifurcated Local Area Network,2024-06-06,16764.01,Straight Line,25,12573.01,CC010
+A0229,Compatible leadingedge matrices,2024-12-21,49746.19,Declining Balance,10,44771.57,CC019
+A0230,Assimilated well-modulated capacity,2015-10-11,10503.16,Straight Line,10,0.0,CC009
+A0231,Fundamental real-time access,2017-07-25,47649.63,Declining Balance,10,9529.93,CC001
+A0232,Team-oriented even-keeled emulation,2017-10-27,28595.57,Straight Line,10,5719.11,CC016
+A0233,Ameliorated bandwidth-monitored algorithm,2022-12-15,10284.13,Declining Balance,10,7198.89,CC006
+A0234,Fundamental zero administration Graphical User Interface,2023-12-22,6075.29,Declining Balance,25,3037.64,CC018
+A0235,Reduced heuristic concept,2016-12-22,16505.49,Declining Balance,25,0.0,CC005
+A0236,La possibilité de concrétiser vos projets naturellement,2018-07-14,11430.35,Declining Balance,10,3429.1,CC005
+A0237,Exclusive asymmetric data-warehouse,2015-07-22,29707.68,Declining Balance,20,0.0,CC001
+A0238,Future-proofed mission-critical protocol,2021-10-27,39531.55,Straight Line,20,7906.31,CC012
+A0239,Re-engineered impactful emulation,2022-10-17,38957.53,Straight Line,10,27270.27,CC014
+A0240,Function-based system-worthy knowledge user,2023-05-11,5776.43,Declining Balance,25,2888.22,CC001
+A0241,La liberté de concrétiser vos projets avant-tout,2019-01-08,38135.82,Straight Line,10,15254.33,CC006
+A0242,Configurable zero tolerance secured line,2023-12-25,25486.86,Declining Balance,20,15292.12,CC011
+A0243,Enterprise-wide bandwidth-monitored process improvement,2022-05-07,30246.37,Straight Line,25,7561.59,CC007
+A0244,Le plaisir d'avancer à l'état pur,2021-01-28,22849.15,Straight Line,25,0.0,CC015
+A0245,Streamlined leadingedge attitude,2018-08-19,30521.7,Straight Line,25,0.0,CC015
+A0246,Object-based full-range functionalities,2019-01-10,23707.52,Straight Line,25,0.0,CC008
+A0247,Centralized hybrid implementation,2018-09-06,26005.11,Declining Balance,25,0.0,CC013
+A0248,Managed transitional moderator,2023-03-19,31120.48,Declining Balance,10,24896.38,CC009
+A0249,Ergonomic neutral portal,2024-11-20,48308.46,Straight Line,20,38646.77,CC012
+A0250,Intuitive directional initiative,2021-05-26,25584.9,Declining Balance,20,5116.98,CC015
+A0251,Le droit d'avancer avant-tout,2018-03-21,37511.96,Straight Line,20,0.0,CC003
+A0252,Team-oriented modular protocol,2019-04-11,36229.88,Declining Balance,10,14491.95,CC001
+A0253,Decentralized contextually-based circuit,2020-02-08,26081.85,Straight Line,20,0.0,CC005
+A0254,Le confort de changer en toute tranquilité,2020-01-23,47871.82,Straight Line,20,0.0,CC008
+A0255,Upgradable 24hour Graphic Interface,2018-03-11,30290.83,Declining Balance,20,0.0,CC010
+A0256,Optimized zero tolerance methodology,2020-05-13,32568.06,Declining Balance,20,0.0,CC007
+A0257,Networked non-volatile matrices,2015-08-04,39808.45,Straight Line,25,0.0,CC017
+A0258,Profound fresh-thinking moderator,2024-01-07,22975.96,Declining Balance,25,17231.97,CC006
+A0259,Business-focused even-keeled architecture,2022-11-12,13009.56,Declining Balance,20,5203.82,CC016
+A0260,Optional value-added core,2023-09-22,34557.17,Straight Line,20,20734.3,CC012
+A0261,L'assurance de louer naturellement,2022-11-01,5934.97,Straight Line,20,2373.99,CC017
+A0262,Persevering coherent time-frame,2025-01-26,21381.86,Declining Balance,25,21381.86,CC006
+A0263,Programmable next generation workforce,2020-01-03,43953.09,Straight Line,25,0.0,CC005
+A0264,Centralized user-facing superstructure,2022-05-02,32054.73,Declining Balance,20,12821.89,CC005
+A0265,Inverse grid-enabled portal,2018-04-16,46236.21,Straight Line,10,13870.86,CC018
+A0266,Devolved clear-thinking conglomeration,2017-03-14,10942.57,Declining Balance,20,0.0,CC002
+A0267,Re-engineered grid-enabled toolset,2016-08-29,38160.91,Declining Balance,10,3816.09,CC005
+A0268,La liberté d'avancer plus rapidement,2023-07-04,35241.66,Straight Line,10,28193.33,CC013
+A0269,La liberté d'atteindre vos buts plus facilement,2022-07-16,34420.03,Straight Line,10,24094.02,CC004
+A0270,Expanded discrete forecast,2019-11-05,7214.67,Straight Line,20,0.0,CC020
+A0271,User-centric value-added monitoring,2021-07-10,35113.91,Declining Balance,10,21068.35,CC004
+A0272,Decentralized methodical installation,2023-04-16,11560.69,Declining Balance,25,5780.35,CC009
+A0273,Right-sized value-added complexity,2020-02-15,8604.0,Declining Balance,10,4302.0,CC016
+A0274,L'assurance de concrétiser vos projets avant-tout,2022-11-30,42732.97,Straight Line,25,10683.24,CC009
+A0275,L'avantage de rouler naturellement,2022-12-27,24271.46,Straight Line,25,6067.86,CC005
+A0276,Inverse explicit infrastructure,2018-10-17,13677.7,Declining Balance,20,0.0,CC014
+A0277,Enterprise-wide empowering utilization,2018-10-22,44246.25,Declining Balance,20,0.0,CC010
+A0278,Extended bottom-line task-force,2017-03-09,42893.47,Declining Balance,25,0.0,CC006
+A0279,Pre-emptive national instruction set,2024-04-02,44119.29,Straight Line,25,33089.47,CC014
+A0280,L'avantage d'évoluer à l'état pur,2023-12-07,30305.88,Declining Balance,25,15152.94,CC013
+A0281,L'assurance de changer à l'état pur,2015-09-27,27778.89,Declining Balance,25,0.0,CC006
+A0282,Horizontal actuating website,2022-01-17,23949.58,Straight Line,25,5987.4,CC016
+A0283,Self-enabling static secured line,2017-01-06,22975.26,Straight Line,25,0.0,CC001
+A0284,Le pouvoir de louer à sa source,2021-10-03,18835.04,Declining Balance,20,3767.01,CC010
+A0285,Configurable 5thgeneration utilization,2023-02-10,24418.89,Declining Balance,10,19535.11,CC007
+A0286,Streamlined mission-critical framework,2021-12-13,10815.99,Straight Line,10,6489.59,CC006
+A0287,Front-line exuding artificial intelligence,2016-12-04,30918.32,Straight Line,10,3091.83,CC016
+A0288,Customer-focused directional instruction set,2018-03-26,22467.21,Declining Balance,20,0.0,CC020
+A0289,Optional leadingedge approach,2023-06-04,15988.24,Straight Line,20,9592.94,CC002
+A0290,Vision-oriented tertiary initiative,2021-12-09,6017.47,Straight Line,25,0.0,CC004
+A0291,Digitized 6thgeneration task-force,2023-09-17,33257.88,Straight Line,20,19954.73,CC020
+A0292,Digitized solution-oriented time-frame,2017-12-09,7741.4,Straight Line,20,0.0,CC005
+A0293,Assimilated web-enabled knowledgebase,2022-01-11,41716.83,Declining Balance,25,10429.21,CC011
+A0294,Digitized demand-driven product,2020-01-22,43762.3,Declining Balance,20,0.0,CC017
+A0295,Up-sized stable hardware,2023-06-05,10984.25,Straight Line,20,6590.55,CC011
+A0296,Cross-group national throughput,2023-06-19,31237.93,Straight Line,25,15618.97,CC007
+A0297,Universal even-keeled matrix,2018-08-03,44736.48,Declining Balance,10,13420.94,CC014
+A0298,Decentralized attitude-oriented website,2025-01-10,14724.41,Straight Line,25,14724.41,CC013
+A0299,Enterprise-wide multi-tasking complexity,2020-04-06,17911.14,Declining Balance,25,0.0,CC011
+A0300,Le droit d'innover à sa source,2024-12-17,18097.78,Straight Line,20,14478.22,CC015

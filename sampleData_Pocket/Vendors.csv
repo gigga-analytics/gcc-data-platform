@@ -1,0 +1,501 @@
+VendorID,Name,Country,Industry,BankDetails
+V00001,Neureuther Stiftung & Co. KGaA,Hongrie,Hardware,DE88033772482374888040
+V00002,van Wallaert & Blewanus,Palau,Hardware,IE4838728324884207324074764
+V00003,Briemer GbR,Comoros,Consulting,GB09YXBJ73658358480293
+V00004,"Hill, Clark and Smith",Honduras,Software,NL02ZGOU2564611622
+V00005,Bohlander Junck GmbH & Co. KG,Ireland,Legal,NL19UILA4543085663
+V00006,McKelvey-Gibney,British Indian Ocean Territory (Chagos Archipelago),Consulting,NL73UHUY3193603792
+V00007,Fearon PLC,Lao People's Democratic Republic,Logistics,FR4446579606320056338297083
+V00008,"Johnson, Thornton and O'Connor",Japan,Software,GB07GSCY16323764532718
+V00009,Pasman & Soos,Nicaragua,Logistics,GB09CCZB58707743086012
+V00010,Koninklijke Heyne,Svalbard & Jan Mayen Islands,Logistics,FR0816030561249805905919754
+V00011,"Begum, Day and Duffy",New Zealand,Software,FR4981573144716850077182693
+V00012,Seifert,Turks et Caïques (Îles),Legal,IE2142095427373903952179481
+V00013,Blot,Tonga,Hardware,GB80NWAG68551241935994
+V00014,Dargan Group,Georgia,Logistics,GB04PLKO82232706929407
+V00015,Schmidtke e.V.,Guam,Legal,NL35ZZJW8522861751
+V00016,"Quigley, McBreen and Connolly",Monaco,Software,FR3522564355095935343193388
+V00017,Jopich,Uruguay,Hardware,NL74VFLL4140166116
+V00018,Hauffer,Haïti,Hardware,GB94YLUQ52219957564221
+V00019,McCrea Group,Lesotho,Hardware,DE67830628667782638844
+V00020,Süßebier e.G.,Westelijke Sahara,Hardware,FR4646023631568182932726292
+V00021,Moenen Groep,La Barbad,Software,DE28610685896523526202
+V00022,Wells Ltd,Azerbaïdjan,Legal,GB45NPWJ46641854083595
+V00023,Ariens Ansems & Kerkhof,Brunei Darussalam,Software,IE4385160301355897325292683
+V00024,Humphries Inc,Guernsey,Hardware,NL03WPRH3895227342
+V00025,Sita,Montserrat,Hardware,IE0689827141378707091229621
+V00026,Mühle Krebs AG,Guyana,Software,DE33519646372056012689
+V00027,Bazin,Japan,Software,DE56249345338179946297
+V00028,"Mulvy, Kieran and O'Malley",Amerikaanse Maagdeneilanden,Software,NL52DBCX1768421090
+V00029,Kilgallon-MacGreal,IJsland,Legal,GB60QFFP87901768447286
+V00030,Losekann Wiek AG & Co. KG,India,Consulting,NL63YITO7015369776
+V00031,Kensy GbR,Uruguay,Legal,GB55LPWL63980179022665
+V00032,Jans BV,Burundi,Software,GB61AQJE91878065405469
+V00033,O'Mahony and Sons,Comoros,Hardware,FR7388392350794954851592641
+V00034,Magrath PLC,Congo,Legal,GB14JNWM28389929780122
+V00035,Bakker Logistiek,Mauritius,Logistics,NL81POQK4327657081
+V00036,Hettner Wende KG,Andorra,Hardware,FR6105966521065010658124156
+V00037,Fenning-Finneran,Luxemburg,Consulting,DE30002146103711448811
+V00038,Shaughnessy Group,Cuba,Software,DE71392862381859853665
+V00039,"Gill, Reed and Joyce",Autriche,Consulting,DE39968867395842873062
+V00040,"Hutchinson, Ginevan and Kenna",Micronesia,Software,DE28783676789956833921
+V00041,Ziut,Vierges (Îles),Software,NL18JRSQ7494012156
+V00042,Martin,Saudi Arabia,Software,DE73119078126894518146
+V00043,Lucas,Malawi,Software,DE41950469955613225159
+V00044,Merle,Palau,Consulting,DE71601315252047702271
+V00045,Lange,Pakistan,Logistics,DE62877784393990827883
+V00046,Eigenwillig Heintze Stiftung & Co. KGaA,Uruguay,Consulting,IE1198670143684823419465018
+V00047,"Bray, Mullaghan and Bannon",Portugal,Consulting,FR4209521503310549456440093
+V00048,Koninklijke Neuteboom,Argentinien,Software,DE68851953053872366731
+V00049,Stichting Scholten,Ägypten,Consulting,IE4939215557722170368300009
+V00050,Nicolas,Mali,Consulting,FR1593496672792129249085826
+V00051,Delattre,Spitsbergen en Jan Mayen,Logistics,IE5013626323390606084643418
+V00052,"Small, Callaghan and Johnstone",Zaïre,Hardware,NL43ITDU6859721941
+V00053,Royal van den Velde,Togo,Logistics,GB14PRXY77419241016863
+V00054,Clément Maurice S.A.S.,France,Logistics,FR1764494186002635575123975
+V00055,Boyce Ltd,Singapur,Consulting,NL15QULF4149160536
+V00056,Langern GmbH & Co. KG,Comores,Logistics,IE7378251487398833865798081
+V00057,Jüttner,Liban,Software,FR8864594472155842827111833
+V00058,Evoy Group,Peru,Logistics,NL94CXHG2198678930
+V00059,Jones Inc,Guyana,Consulting,DE90010394584014630369
+V00060,Jungfer e.G.,El Salvador,Consulting,NL97TMQX3605093120
+V00061,Dachgelder NV,Morocco,Legal,IE7654375880432346051030687
+V00062,Smith-Goodwin,Svalbard et Jan Mayen (Îles),Software,FR7928686743390037169453530
+V00063,van Olst NV,Alandinseln,Consulting,IE5898604154246368872187006
+V00064,Condren-Charles,Paraguay,Legal,DE94359660735590345284
+V00065,McGuirl Inc,Cameroun,Legal,NL23APSX5119572764
+V00066,Mullooney PLC,Kongo,Logistics,NL62NPWR0379935040
+V00067,Sauvage et Fils,Tanzania,Consulting,FR0938082521484716423942580
+V00068,Perkins Group,Myanmar,Software,GB97KELB99371050083519
+V00069,Dawson and Sons,Eritrea,Logistics,NL33KLUB7033116210
+V00070,"MacCaffrey, Kelly and McEvoy",Malta,Logistics,IE6467858864122300172531099
+V00071,Brunet Da Costa SARL,Gambia,Consulting,FR1321791935560472970143368
+V00072,Mary,Syrie,Consulting,FR1219433084709259832230355
+V00073,"Lord, Carr and Newman",Indonesia,Software,IE4345776171803190336219057
+V00074,"Tully, Neville and McGinnitty",Sambia,Logistics,GB81QLQH66284644279432
+V00075,"Lyons, Sinnott and Fanning",Myanmar,Consulting,FR2018386323696919244369387
+V00076,van der Dussen Ortmann AG,Moldavie,Consulting,NL09IDYJ9364531289
+V00077,Ruppert Bolzmann KGaA,Réunion,Consulting,GB62HBDC06848281586417
+V00078,De Heus Diervoeders,Bosnie-Herzégovine,Consulting,GB53HAES57447429973086
+V00079,Bertrand S.A.,Namibie,Hardware,FR8166100298137992874699444
+V00080,Boers Groep,Australia,Logistics,IE1285442358378439864153509
+V00081,Girard,Seychelles,Legal,NL57FSAG6827015528
+V00082,Seifert,Congo,Legal,GB46JPRZ96868458959909
+V00083,Lee-Rogers,Britische Jungferninseln,Legal,FR9368297205306673464706034
+V00084,Hill-Carr,Guinée-Bissau,Software,IE3740871891313497444193882
+V00085,Sheridan Group,Réunion (La),Legal,GB47RFLC35065107386055
+V00086,van Ghoerle Groep,Kazakhstan,Logistics,GB96KVXQ22612286273954
+V00087,"McNamee, Murnin and Ledwich",Angola,Software,FR7818352530217671515963493
+V00088,Seery-Deloughrey,United Kingdom,Consulting,DE75811378174679304938
+V00089,Dobes Tintzmann OHG mbH,France,Logistics,DE55034162424476737014
+V00090,Pechel GbR,Zimbabwe,Software,NL93RPEF4895316471
+V00091,Petit,Malta,Consulting,FR2839887125245316967632862
+V00092,Koninklijke Jorrisen,Papua New Guinea,Software,GB45KCGN16802710129897
+V00093,Fontaine Gonzalez S.A.,Estonia,Software,FR9672164580650527539990281
+V00094,Crawley-Cormick,Allemagne,Legal,DE66991223549751290929
+V00095,Holland-Burke,Liechtenstein,Consulting,IE6205767865290880450507016
+V00096,"McNally, Watts and Miscell",Moldova,Consulting,NL28EHZE5688424596
+V00097,Mende,Samoa,Software,FR6087868944742176228459998
+V00098,Curneen-Drummond,Zimbabwe,Legal,DE63934373840188104824
+V00099,Mohaupt KGaA,Guatemala,Software,GB09LTSZ24896028744379
+V00100,Holden-Lewis,Macao,Consulting,FR6781115124443152667393311
+V00101,Serra & Moet,Bahrein,Legal,IE0591431293557780753748943
+V00102,MacMonagle Ltd,Luxembourg,Software,DE70722797597278559814
+V00103,Vertooren BV,Brasilien,Logistics,GB95PFHP14801777757992
+V00104,Pineau,Autriche,Hardware,DE07039322664541177508
+V00105,Grégoire S.A.,Noordelijke Marianen,Software,GB45ZFPZ68760433115800
+V00106,Gilligan and Sons,Nauru,Hardware,FR5521767735776417345967181
+V00107,Tröst KGaA,Kamerun,Hardware,NL64VKBD0702814589
+V00108,Howley-O'Sheehan,Japan,Consulting,FR9625058475054053424650107
+V00109,Colas Payet S.A.S.,Burundi,Logistics,NL36YRCB4170504541
+V00110,Hervé S.A.,Zweden,Hardware,GB19LVHI11092455759248
+V00111,Clerc,Bermuda,Software,FR7603574438650687469631098
+V00112,Löffler Sorgatz OHG mbH,Argentinië,Logistics,FR1557558835519645888663695
+V00113,Gieß AG,Ruanda,Logistics,NL88VPGS1069775838
+V00114,Gregory-Joyce,Saint Helena,Software,GB43XRCK85076988455094
+V00115,Carlier,Moldova,Hardware,DE91636169430371496799
+V00116,O'Rahilly PLC,Mozambique,Legal,GB32CIKR47928726666752
+V00117,Cosgrove PLC,Colombie,Legal,IE8746644750763118513442778
+V00118,Trupp GbR,Tonga,Software,NL41BRXN1880183307
+V00119,Langlois,Nauru,Software,GB49NQCK65415968642729
+V00120,Scuylenborchs BV,Palau,Hardware,NL75PMQE7426601367
+V00121,Verhaar NV,Sainte Hélène,Hardware,FR7927210971636559222447804
+V00122,Müller,Kuba,Consulting,GB61BISF68159736395031
+V00123,Hall-Stephenson,Zambie,Software,IE2593718639599300588044812
+V00124,McIlroy Inc,Haiti,Logistics,DE96319275299137578720
+V00125,Barentz Group,Netherlands,Logistics,IE9460297868345590251855894
+V00126,Pereira,Mayotte,Consulting,NL31TSED8885299979
+V00127,Alves S.A.,Swaziland,Software,NL91WLDI7685994381
+V00128,van Ginkel Groep,Schweiz,Consulting,DE27235930718369763767
+V00129,Schönland,Central African Republic,Legal,IE1045444054598703847177312
+V00130,Walton-Jones,Angola,Consulting,GB10XOYF05700293972348
+V00131,"Hussain, Day and Evans",Haiti,Software,DE80006655457945420805
+V00132,Kierans and Sons,Isle of Man,Consulting,FR8801259598248139887932144
+V00133,Lebreton,Mauritius,Consulting,DE80275725353249975675
+V00134,Tschentscher Tröst GmbH,Malta,Hardware,GB15JZGG11294662112150
+V00135,Lindner,Kenya,Legal,FR1715571262959376849494134
+V00136,Jockel Wagenknecht KGaA,Cocos (Keeling) Islands,Logistics,DE70336122049426688038
+V00137,Kuhl Schaaf e.V.,India,Consulting,GB81SBYV29196551004312
+V00138,Simpson Group,Honduras,Software,IE0282454274635483178933626
+V00139,Lindau,Gabon,Software,NL07IHJG0088589917
+V00140,Besson Bazin et Fils,Denmark,Logistics,GB96UPCM05013792888785
+V00141,McElwaine and Sons,Kasachstan,Hardware,FR7694140551685357377873809
+V00142,Samskip,Hungary,Consulting,GB19IWUL96399795206283
+V00143,Le Goff,Azerbeidzjan,Hardware,GB33JVLD97201706162473
+V00144,Heribert van Laon BV,Moldavië,Legal,FR7714616018719037424650123
+V00145,Heuser e.G.,New Caledonia,Legal,NL52AVLO7014114538
+V00146,Wiek Weinhage GmbH & Co. KG,Palau,Logistics,FR7514408164626199797984561
+V00147,Ulrich NV,Tunisia,Legal,GB90IQTT65996071415691
+V00148,Loos,Nouvelle Calédonie,Logistics,FR8945169747827954594286761
+V00149,Dunn-Swift,Thailand,Consulting,GB02CFQP63159839658742
+V00150,Jäntsch GmbH & Co. KG,Macedonia,Hardware,DE95042171947414921427
+V00151,Martin-Forster,Mexico,Software,NL76ABBS7214882675
+V00152,Dunleavey Ltd,Faroe Islands,Consulting,GB88UFOK59326268194885
+V00153,TUI,Burkina Faso,Legal,GB10DHHF61043211047122
+V00154,Barber PLC,Czech Republic,Software,GB47SHBJ96225444971513
+V00155,Gaudin,Oman,Software,NL30XNTC0200248434
+V00156,Klemt Losekann AG & Co. KGaA,Grönland,Logistics,NL45DVJN2694282677
+V00157,Dungan-Rea,Bulgarien,Hardware,DE17480136931059827603
+V00158,Mende Hornig Stiftung & Co. KGaA,Guernsey,Logistics,FR4132234956460336057456745
+V00159,Mitchell-Jones,Kroatien,Logistics,IE2474034350227865108724894
+V00160,Rijcken Groep,Zimbabwe,Software,FR1782092218144014409933558
+V00161,Petitjean et Fils,Peru,Logistics,GB92FYUN70890077615423
+V00162,Dunn LLC,Croatie,Logistics,NL21CBPK7209097862
+V00163,Mude,Cuba,Logistics,GB53VBXA12701586745592
+V00164,MacSweeney-Higgins,South Africa,Hardware,IE9432113780059740315210398
+V00165,"Rhattigan, Arthurs and Sheehan",Chad,Consulting,IE9613592142681753245455751
+V00166,Briand,Laos,Logistics,GB71XZRR58289156552860
+V00167,"Howard, Bennett and Pritchard",El Salvador,Hardware,NL87KGUV6769148617
+V00168,Heraghty-McCorley,Demokratische Republik Kongo,Consulting,DE50185212839019990266
+V00169,"Ford, Matthews and Thomas",Espagne,Legal,DE07196065274763789631
+V00170,Bodin,Saint Martin,Software,IE6455323139940519185897904
+V00171,Thies Heß KGaA,Libië,Hardware,FR1078637471330380037006079
+V00172,Bigot Rousset SARL,Sierra Leone,Software,FR5372011075733702273227818
+V00173,Royal van Oosten,Guam,Software,FR7406943337511285152097198
+V00174,"Kinahan, Skeffington and Clements",Albanië,Software,DE41566853130874867758
+V00175,Lynch Ltd,Seychelles,Legal,DE85491182763843246401
+V00176,Junck Rogge Stiftung & Co. KG,Indonésie,Legal,GB97HUHM84484915154569
+V00177,"Parker, Hunter and Hill",Mosambik,Consulting,GB07ZVTO52663128680531
+V00178,Stichting Jans,Kazachstan,Legal,IE8511010748371187194082431
+V00179,Gavican Group,Czech Republic,Consulting,GB59XQVM66734643751613
+V00180,Vallée Loiseau S.A.S.,Vaticaanstad,Hardware,DE62187809574050172786
+V00181,"Forster, Butler and Bolton",New Caledonia,Hardware,DE34128916841002313842
+V00182,Stichting van Zwaben,Palau,Consulting,FR0504328790370900132212207
+V00183,"Davenport, Whyte and Folan",Ierland,Software,DE09529312658274170804
+V00184,De Oliveira,Liechtenstein,Software,FR0345629547149471292625439
+V00185,Porter LLC,Cuba,Hardware,NL51EXZW6800712237
+V00186,Schweitzer GmbH,Cuba,Software,FR4193130593543338185164740
+V00187,Johnston-Clogherty,South Georgia and the South Sandwich Islands,Consulting,DE36197492460226584023
+V00188,Fenelon-Fresh,Brazil,Software,IE7129391506220635541373047
+V00189,Le Roux S.A.R.L.,Estland,Logistics,GB98BILH35511246007083
+V00190,Clément et Fils,Guam,Software,FR7898554375608709505864012
+V00191,Dupuy,Hongarije,Logistics,IE5715324823244035894498667
+V00192,Morel SARL,United States Minor Outlying Islands,Hardware,NL73IDPY2312957809
+V00193,Edwards Inc,Aserbaidschan,Consulting,NL31HOFP8447894511
+V00194,Begum and Sons,Estonia,Logistics,NL50CDAI1976527269
+V00195,"Holohan, Drennan and Nulty",Danemark,Hardware,NL71KTII3213072902
+V00196,Mielcarek,Gibraltar,Logistics,IE8803781017104778731843334
+V00197,"Lloyd, Peacock and Allan",Cuba,Consulting,FR2481383582209970504854631
+V00198,Queenane PLC,Bouvet Island (Bouvetoya),Consulting,NL91XTZW7443392199
+V00199,Koninklijke Kamp,Singapore,Logistics,DE33423242956672815230
+V00200,Grolsch,Canada,Logistics,GB75LNLI78489125800527
+V00201,Gute Stolze GmbH,Malaysia,Software,GB90FEVU64910585521133
+V00202,Taylor-Turner,Timor-Leste,Legal,DE21889946851740463317
+V00203,Gnodde NV,Falklandinseln,Software,FR2330437594022002999667983
+V00204,"Smart, Arnold and Gibson",Chad,Logistics,NL70VDFP0761260250
+V00205,Bernaards & Langevoort,Pakistan,Legal,GB37ZPQT16278869864964
+V00206,Carpentier,Philippines,Software,GB75CTIM20039278778997
+V00207,Jones-Jones,Canada,Consulting,GB21ZDHC92985608610114
+V00208,Krause Schleich GmbH,Mali,Consulting,DE89149797024786797924
+V00209,auch Schlauchin,Yemen,Legal,GB94CWDU65419822057582
+V00210,Plath,Gibraltar,Consulting,GB07VVFF83898643886479
+V00211,Hervé SA,Rwanda,Consulting,FR7764001536520883132577470
+V00212,Diallo S.A.S.,Antigua und Barbuda,Hardware,NL19NJSO0500212211
+V00213,Kabus,Iceland,Hardware,IE2115896346737254117043013
+V00214,Gilles S.A.R.L.,Niederlande,Hardware,DE30248088189829840767
+V00215,Eimer,Georgia,Consulting,IE0207050322866051277685077
+V00216,Schmidtke,Latvia,Logistics,GB89VQUK70937484380851
+V00217,Parsons Ltd,Dänemark,Legal,DE55004621644974269531
+V00218,Peeters Groep,Heard en McDonaldeilanden,Logistics,NL41VICW8954134260
+V00219,Fitzmartin Inc,Grönland,Legal,NL82VIEE2489075089
+V00220,Royal van der Leek,Bosnia and Herzegovina,Hardware,GB55IPHC73575713735996
+V00221,Juncken Beckmann GmbH,Azerbaijan,Consulting,GB46LHMR62994741634570
+V00222,Liddane and Sons,Osttimor,Software,NL28LPFW7799897546
+V00223,Ackermann Gerlach AG & Co. KGaA,Antarctica (the territory South of 60 deg S),Hardware,DE79367260025310356445
+V00224,Gallet,Malte,Logistics,NL28NZRU9056876516
+V00225,"Ellis, Brown and Rowe",Gambia,Legal,GB55RWMV15445467101535
+V00226,Scheuermann Etzold Stiftung & Co. KGaA,Îles Mineures Éloignées des États-Unis,Consulting,NL86OJCD9103889376
+V00227,Pohl GmbH,Micronesia,Hardware,FR2217667656792857393658313
+V00228,"O'Doherty, Dasey and Cremin",Moldova,Legal,DE71511799083884372231
+V00229,Lübs Kambs GmbH,Tuvalu,Consulting,DE38821235163619029603
+V00230,Albers,Sudan,Logistics,DE41639928840948009212
+V00231,Griffiths Inc,Lettonie,Hardware,NL29HXZZ1058775766
+V00232,Williams Inc,Comoros,Hardware,NL44LXFN2765804176
+V00233,Rivière,Paraguay,Legal,IE2734684187816850410363791
+V00234,Buijs BV,Isle of Man,Hardware,FR3206469271032532948350279
+V00235,Coop Nederland,Puerto Rico,Logistics,NL64VZZG5583621005
+V00236,Cremin Ltd,Spain,Logistics,IE7955158610179174405084080
+V00237,van 't Wel & van Kusen,Republik Moldau,Consulting,GB50YOPJ72792106996759
+V00238,Drewes AG,Malawi,Software,IE1318416418446558516155174
+V00239,Carey and Sons,Oekraïne,Consulting,GB86KXVQ27976484068898
+V00240,Carlin-Wright,Grenade,Legal,FR0591998230519441472711054
+V00241,"Bell, Wilson and Archer",Ivoorkust,Software,DE15904413671158793116
+V00242,Stiebitz Neuschäfer KG,French Southern Territories,Software,GB16XCPK67391493052167
+V00243,"Hamilton, Smith and Hanson",België,Legal,NL95YYJD7213127365
+V00244,Hänel,Lettonie,Consulting,IE2697191397299708742886023
+V00245,Lange AG & Co. OHG,Hong Kong,Consulting,GB53QIPK65856066731050
+V00246,Koninklijke Heyne,Australië,Hardware,FR0652249652632186108245864
+V00247,Koch II,Dominicaanse Republiek,Software,FR9063987011438104308857346
+V00248,Ikea,Turks and Caicos Islands,Software,IE2336341836610968704824862
+V00249,Hernon-Neelin,Antarktis,Consulting,GB82PRCB08093531006046
+V00250,Laroche SA,Timor-Leste,Logistics,FR6367685523692963464973070
+V00251,Kunen & Smeets,Isle of Man,Legal,IE1075255018952478734425456
+V00252,De Brauw Blackstone Westbroek,Armenia,Hardware,GB41SOVB96064248535136
+V00253,"Brown, Ledwich and Berney",Russie,Hardware,NL96QUVY7396190452
+V00254,Zirme,Hongkong,Logistics,DE36887309870482942948
+V00255,Rogers-Walters,Liechtenstein,Legal,DE92827679624200606013
+V00256,Dyer-Cooper,Amerikanisch-Ozeanien,Logistics,FR4076963871760162358546487
+V00257,"Taylor, Hooper and Robinson",Turkmenistan,Hardware,NL05RSXX5794170153
+V00258,Gomez S.A.R.L.,Reunion,Legal,DE23460205043947347810
+V00259,Bolzmann KGaA,Slowenien,Hardware,FR5235725724698572595100886
+V00260,van den Nyeuwenhuysen NV,Bhutan,Legal,NL33GZTP8458760649
+V00261,Berthelot,Mauritanie,Legal,IE1852627278129833757076553
+V00262,Royal de Pauw,Thailande,Hardware,FR1010186694892888340978020
+V00263,Atzler Schuster OHG mbH,Slovenia,Legal,GB31GJDV27040945575878
+V00264,"O'Higgins, Moone and Heney",Argentina,Consulting,DE25187842945518597311
+V00265,Owen-Reid,Tadjikistan,Consulting,GB03JYIM46167400036198
+V00266,Martinez Gauthier SARL,Nicaragua,Consulting,IE8511809540309729875723292
+V00267,Harloff Putz AG & Co. OHG,Benin,Software,DE14641338900774379035
+V00268,Galijn BV,Venezuela,Software,GB94LPSX24424113860272
+V00269,Carter-Jones,Latvia,Consulting,FR9757881304484740862265291
+V00270,Labbé,Hungary,Logistics,IE4367459924670915537365861
+V00271,Morin,Bouvetinsel,Software,GB40MRZS84960328517866
+V00272,Bevan LLC,Westsahara,Consulting,IE3747772048073279807082945
+V00273,Drian-Stoices,Estonie,Consulting,DE94992827430847331474
+V00274,Pereira Guibert S.A.R.L.,Verenigd Koninkrijk,Hardware,FR4799494454599850655011197
+V00275,Vegt BV,Lesotho,Legal,FR5579309288797023743710092
+V00276,Trub KG,Niger,Consulting,NL43LEAI2773377419
+V00277,Sogeti,Saint Lucia,Hardware,GB43MXOJ43599900575711
+V00278,Rosenow KGaA,Guinea-Bissau,Logistics,FR7645576393903174031493094
+V00279,Mitsubishi,Kleine Pacifische eilanden van de Verenigde Staten,Consulting,GB48SQDJ95044674369649
+V00280,MacFall Inc,Porto Rico,Legal,FR0652292997868247958875381
+V00281,Lacombe SARL,Kirgisistan,Hardware,DE89106802947520463263
+V00282,Seip Thies KG,Mayotte,Legal,DE28725565715192479262
+V00283,McLoon Group,Panama,Logistics,NL67SXPB0684368007
+V00284,Robinson LLC,Macedonië,Legal,NL17IZCU8897784873
+V00285,Meister,Verenigde Arabische Emiraten,Logistics,FR9760925732758614566417466
+V00286,Duff-Mulryan,Ruanda,Legal,FR8212815151516848781258518
+V00287,Duivenvoorden & van de Veen,Timor-Leste,Consulting,FR8710574719580549403096312
+V00288,Dooley-McCarron,Mikronesien,Consulting,IE7335275182243842006778674
+V00289,Kemp-Parry,Kuwait,Hardware,IE8027231512624069118331462
+V00290,Bourdon,Äthiopien,Logistics,IE2886193809301506870501378
+V00291,Vaillant et Fils,Frankrijk,Software,GB49HWJD07405321863196
+V00292,"Colreavy, Leech and Malley",Vanuatu,Software,DE55634119730289668106
+V00293,Draaisma NV,Turks et Caïques (Îles),Legal,IE3471933258976549733488045
+V00294,ABN Amro,Brunei Darussalam,Logistics,DE35514802052422013933
+V00295,Stichting Höning,Myanmar,Hardware,NL17CHDV8875765063
+V00296,Royal Hak,Austria,Software,GB89KFSU83805024807437
+V00297,Carpenter-Jackson,Myanmar,Consulting,GB85UJUV68871089744021
+V00298,Junken Caspar OHG mbH,Wallis and Futuna,Legal,NL61ULFZ1347174189
+V00299,Saunders-Hill,Frans-Guyana,Logistics,IE7300350208038465006728364
+V00300,Voisin,Finland,Hardware,NL32EUHZ8856252713
+V00301,Schenk Täsche GmbH,Afghanistan,Logistics,GB78JMPW01528142857073
+V00302,Hernandez S.A.,Duitsland,Hardware,IE5462694369125770636520444
+V00303,Brown-Price,Korea,Software,GB47BRSX07554133168278
+V00304,Lebon Berger S.A.R.L.,Bermudes (Les),Logistics,IE2301618939380010784665059
+V00305,Valentin,Anguilla,Consulting,DE27069679468266477005
+V00306,Mercier,Uruguay,Software,FR6922174771375223622614379
+V00307,"Dixon, White and Hopkins",Holy See (Vatican City State),Software,IE6549139076696687913299149
+V00308,Täsche,Syrian Arab Republic,Software,IE8607546488228115200840391
+V00309,Thomas-Lewis,Tokelau,Software,NL37HEUF3482336924
+V00310,Thanel GmbH & Co. KGaA,Martinique,Hardware,DE27956982228770894314
+V00311,"Kildea, Stapleton and Curtis",Vereinigtes Königreich,Software,NL26HJUN5970932866
+V00312,Delaunay SARL,Myanmar,Consulting,GB27VYMV59157548520582
+V00313,"Callan, Murnin and Loughran",Oeganda,Software,FR1807679644846515621707117
+V00314,Pasman & d' Heripon,United Kingdom,Software,FR3896240381748153727752338
+V00315,Pierre S.A.S.,Solomon Islands,Software,FR9009503520097192252512012
+V00316,"Foster, Hobbs and Walker",Afghanistan,Legal,DE21258714569597144378
+V00317,"Wright, Henderson and Bennett",Territoire britannique de l'océan Indien,Logistics,GB73HEGD24722012614790
+V00318,Hall and Sons,Bangladesh,Legal,GB29SALW13166382803605
+V00319,"Scott, Greenwood and Kaur",Lesotho,Software,GB57GPEN46211728994828
+V00320,Carpentier et Fils,Martinique,Consulting,GB86XPYK54663719472156
+V00321,Junitz AG,Congo-Kinshasa,Hardware,DE50087549353369048074
+V00322,Bailly SARL,Myanmar,Logistics,GB53XDRQ65034139300910
+V00323,Koninklijke de Koning,Finland,Logistics,DE46445555697630119790
+V00324,Pinto,Slowenien,Logistics,NL54AAKP3298508209
+V00325,West Group,Andorre,Consulting,FR5854278168126982417084750
+V00326,"Donnellan, Lonergan and Kilgallen",Vatican (Etat du),Consulting,DE66941783814276378022
+V00327,Winkler KG,Grenada,Consulting,IE5747865318596365469483075
+V00328,Schacht,Palau,Consulting,GB66LMDH45444880141497
+V00329,Guyon,Northern Mariana Islands,Hardware,GB26WZOL13408033128681
+V00330,Olympia uitzendbureau,Pitcairn Islands,Consulting,IE0519713422557869859393396
+V00331,Slyne-O'Boyle,Brazil,Consulting,DE95386423056206509441
+V00332,Blin et Fils,Belize,Hardware,FR2535036784508652923291001
+V00333,MacCarville-Miscell,Western Sahara,Legal,DE06206391465704535489
+V00334,Höfig AG,Kroatien,Consulting,FR6365867475526638045616832
+V00335,Delaunay,Saint Vincent and the Grenadines,Consulting,NL23VPAN2511056709
+V00336,Valette S.A.S.,Marshall (Îles),Legal,NL54CYDP0920538001
+V00337,Croal PLC,Iceland,Hardware,IE8419572540051380313734950
+V00338,"Largey, Stenson and Kevane",Namibië,Consulting,DE25940850464996485188
+V00339,Royer,Nauru,Logistics,IE4918684719265002333726301
+V00340,Totwiller & de Jong,Chypre,Legal,NL13PXLF5673744783
+V00341,Cahillane Inc,Brunei Darussalam,Software,NL92YSBD7374721795
+V00342,Reid-Freaney,Südafrika,Logistics,NL18LDVI9725927823
+V00343,"MacNeill, Lenaghan and Downes",Sri Lanka,Logistics,DE02637011721065152611
+V00344,Marques S.A.S.,Mongolei,Logistics,DE11926833891122764593
+V00345,Begum-Atkinson,Norvège,Consulting,DE40040419499970958827
+V00346,Sheahan-Reynolds,Mongolië,Legal,GB64QBYG09721593043447
+V00347,Lachmann Mülichen AG & Co. OHG,Guinee,Consulting,NL36RJUM3625393933
+V00348,Wade and Sons,Groenland,Legal,GB52XFNG51751938956617
+V00349,Becker Antoine S.A.,South Georgia and the South Sandwich Islands,Consulting,NL28UQTI9232244608
+V00350,Sherry-Smyth,Territoire britannique de l'océan Indien,Software,GB24JOSN11069863877853
+V00351,Flantz,Saint Vincent en de Grenadines,Logistics,GB30YNOK96092077546076
+V00352,Royal Thatcher,Autriche,Software,DE69465621096092224923
+V00353,Palmer-Lewis,Gibraltar,Hardware,NL66RPGU0441060505
+V00354,van der Hoeven & Vandenbergh,Jemen,Hardware,FR4453111504798505272660798
+V00355,Payet Hamon S.A.R.L.,Tsjechië,Logistics,NL57YSGB7066584895
+V00356,Mackle-Gilsenan,Sint Maarten,Logistics,IE4553442520392978960028251
+V00357,Wernecke GmbH,Jersey,Legal,NL37YDQT0005619533
+V00358,Meyer KG,Egypt,Legal,FR9158462569367250190735276
+V00359,Ollivier Verdier S.A.S.,Paraguay,Legal,NL42BPBK5877810819
+V00360,Jacquet,Guam,Legal,FR4659224031610285307531546
+V00361,Hamon Laroche SA,Sainte Lucie,Hardware,GB30LVKQ47105070530495
+V00362,Riou Lopez et Fils,Denmark,Software,FR2912153689040386371448645
+V00363,"Swords, MacGreal and Carrigan",Norfolk Island,Legal,IE8200243836554728444130949
+V00364,Brumleve BV,French Guiana,Logistics,IE3121081659059087819686723
+V00365,"Grady, Murnane and Whitty",Territoires français du sud,Logistics,DE89471561970046962403
+V00366,McGarvey Group,Austria,Software,FR5342017889739317367843606
+V00367,David,Martinique,Consulting,GB96XJXV30284745706824
+V00368,de Lange & Ansems,Kirghizistan,Software,FR6039639653334483854005340
+V00369,Hall and Sons,Tuvalu,Logistics,IE0222270438425840538547100
+V00370,Eberth Mangold KG,Egypte,Software,FR9204761039718499366575182
+V00371,van Voorhout Groep,Vatikanstadt,Software,GB93KZPM28933290667625
+V00372,Dias,Lebanon,Legal,IE6568192442155437767219970
+V00373,"Ashe, Small and McGarvey",Burundi,Logistics,GB72LRTC16260570359993
+V00374,Slater LLC,Australië,Logistics,IE2503797140471462620048461
+V00375,Royal Symons,Saint Pierre and Miquelon,Legal,GB54XKRQ18662056155565
+V00376,Chrétien SA,Letland,Software,IE1877436206398148474459579
+V00377,Dow Benelux,Nouvelle Calédonie,Logistics,IE5642324986786966771850864
+V00378,Patterson-Newton,Montserrat,Consulting,IE4037692361693214671319329
+V00379,Williams-Green,Kroatien,Software,DE24152302488444635195
+V00380,"Fleming, Murray and Martin",Bolivia,Legal,DE92041189034587002605
+V00381,Schipper Groep,Botswana,Software,DE17620353108638890702
+V00382,Donoghue-Dunleavey,Indonesia,Legal,NL03HZSN8004082117
+V00383,Caspar AG,Guadeloupe,Hardware,DE17856146370807921484
+V00384,Gosselin,Nördliche Marianen,Hardware,FR2433035202901059447006493
+V00385,Aumann AG & Co. OHG,Sainte Lucie,Logistics,DE97102584742536971266
+V00386,Masson S.A.S.,Man,Legal,GB23NKQJ27767876270515
+V00387,Joly,Benin,Hardware,DE55669174630659831500
+V00388,"Heckett, Linnane and Hamilton",Sweden,Hardware,IE8505506683760861903012698
+V00389,Burgess-Walker,Brunei Darussalam,Software,NL77XJKT9753999741
+V00390,Labbé S.A.S.,Spanje,Hardware,IE3877988812177261119884129
+V00391,Moran-Kemp,Tonga,Logistics,FR5824935480731884391431811
+V00392,"Wyatt, Barker and Cook",Trinidad and Tobago,Legal,GB68HLUE52885351627214
+V00393,Vogt GmbH,Wallis and Futuna,Legal,DE40407052839471440618
+V00394,Johnston Inc,Mariannes du Nord (Îles),Consulting,GB87JHVK98631655695737
+V00395,Jansdr & Appelman,Jemen,Logistics,NL97FGTZ0797721028
+V00396,Lucas,Cayman Islands,Legal,NL40UCMR9730754912
+V00397,Kuijpers,Ireland,Software,FR8253101258222373845324201
+V00398,"Richards, Gill and Akhtar",Tonga,Software,FR9833456251721554865821893
+V00399,Garner-Moore,Maldives (Îles),Hardware,NL79LNUX4128221574
+V00400,Hoskins Ltd,Mongolie,Legal,FR8297189542420718948267137
+V00401,Prévost,Dominica,Legal,GB37DTJV63143516819434
+V00402,Rädel Mentzel AG & Co. KGaA,Italy,Legal,GB88RGJJ97559981053494
+V00403,"James, Fisher and Hall",Togo,Hardware,IE5411250899424048642892303
+V00404,Nelson-Butcher,Belarus,Software,IE8515494887592177050313097
+V00405,Margraf Dippel GmbH,Mozambique,Logistics,DE09963309865839682710
+V00406,"Nea, McGuire and Spillane",Cambodja,Software,NL13MKPY6108851025
+V00407,Zorbach Stiftung & Co. KG,Mosambik,Consulting,GB34TWLJ41454338697594
+V00408,Bradley Inc,Westelijke Sahara,Legal,DE43443401245257273838
+V00409,Döhn Stiftung & Co. KGaA,Norway,Hardware,NL62WUFG8166115518
+V00410,Mansveld NV,Gibraltar,Hardware,DE03503653014582948783
+V00411,Godfrey-McLean,Saint Kitts en Nevis,Software,FR7758034868391225939930682
+V00412,Wagenknecht Jäkel GmbH,Israel,Logistics,DE04886328177721574153
+V00413,Connor LLC,El Salvador,Legal,IE0476095238049010319746657
+V00414,"Dooey, Kearns and MacNamee",Thailand,Logistics,GB05SWYF29096547689301
+V00415,Knight and Sons,Finnland,Software,NL78XQCS8793825416
+V00416,Gardner-Gould,Russische Föderation,Software,NL21MGGK1500479132
+V00417,"Kirk, Barrett and Ali",Nauru,Legal,DE02219291378380060086
+V00418,Poulain S.A.,Netherlands,Logistics,GB23BTUR71249441847647
+V00419,Hicks Group,Andorra,Legal,FR4325452049546629298279133
+V00420,Pascal,Portugal,Software,DE40467686465329104511
+V00421,Whittaker-Mistry,Nigeria,Hardware,DE86266597840470540322
+V00422,Ingoldsby-Toolis,Bulgarije,Legal,DE64165028014406358794
+V00423,Hayes LLC,Komoren,Consulting,GB20AWFH60810705127534
+V00424,Gonzalez,Cambodja,Logistics,FR8240775727636343254273515
+V00425,Bourgeois Vaillant SARL,United States of America,Logistics,NL12MKRC6179085065
+V00426,van Eck & van der Pol,Groenland,Legal,DE84066055746869220457
+V00427,McGettrick Group,Syrie,Software,FR7171803656467994445447121
+V00428,Randstad,Saint Lucia,Software,IE6318806896824265823928219
+V00429,Opmans NV,Finland,Legal,DE75769516343992227531
+V00430,Hallinan-McGeady,Thailand,Hardware,DE54463157648635089924
+V00431,Beasty-Delargy,Faroe Islands,Software,IE6874254457367882594579388
+V00432,Hondeveld Groep,Vanuatu,Logistics,IE4762129712548236542791353
+V00433,van Duyvenvoorde & Welf,Swaziland,Software,FR5173129897166258868410325
+V00434,Serra & de Keijser,Bosnië en Herzegovina,Software,FR1293728778966114882448304
+V00435,Mullin Ltd,Benin,Consulting,NL79GMEW7918355584
+V00436,McGuinness Inc,Burundi,Legal,IE7669122508620589242662116
+V00437,Cavanagh Group,Saint Lucia,Legal,NL47DVEM4275471501
+V00438,"Barnes, Wilkinson and Davies",Luxemburg,Legal,DE38293090821460412298
+V00439,Seifert GmbH & Co. OHG,Liberia,Legal,DE65210570521402029087
+V00440,"Riordan, O'Mahoney and O'Sharkey",Armenia,Logistics,GB73HNGP41604377975939
+V00441,Barthelemy,Guatemala,Logistics,FR7025342506223117728739512
+V00442,Bennett-Gallagher,Zimbabwe,Software,NL45GPOB6053877565
+V00443,Zimmer,Ouganda,Hardware,GB39NAAW58311285940270
+V00444,Hobbs-Fletcher,Royaume-Uni,Software,IE0702691117123241890542335
+V00445,Huhn Fröhlich GmbH & Co. KG,Costa Rica,Logistics,GB36SGNP33336949710972
+V00446,Hough Ltd,Nepal,Software,IE1297306498666960112675832
+V00447,BAM,Niue,Logistics,NL42NZSW3022490014
+V00448,Hubert Gillet S.A.S.,Namibië,Software,NL20MUJT9433108232
+V00449,Hurst-Reid,Haïti,Consulting,NL60KOVK0897133112
+V00450,Royal Rehorst,Südgeorgien und die Südlichen Sandwichinseln,Legal,DE38887504011214977267
+V00451,Bruna,Zweden,Hardware,GB82DEXM32584779935114
+V00452,"Clarke, Cox and Hooper",Hong Kong,Logistics,FR6058957786119837461485555
+V00453,Dörschner,Cambodia,Legal,GB47WLRV08472399568851
+V00454,Kirby LLC,Somalia,Consulting,NL93JYOI5463958943
+V00455,Schwital,Guatemala,Consulting,NL08CSRO7232924755
+V00456,"Bennet, Culligan and Keller",Nouvelle Calédonie,Legal,GB62OQDK18872739141043
+V00457,Royal van Mil,Malawi,Consulting,FR5632198218788970817480197
+V00458,Junck,Nigeria,Legal,FR5069948190384454684021158
+V00459,Henderson-Simmons,Malawi,Hardware,NL77SYRY9143458642
+V00460,Dorrian-Dasey,Swaziland,Consulting,FR5976532519485137304156719
+V00461,Mace,Northern Mariana Islands,Logistics,FR3738469089221204886378747
+V00462,Joly et Fils,Frankreich,Legal,FR5932377432508278524584023
+V00463,Reynaud,Seychelles,Software,IE9677512196844584630293446
+V00464,Sheahan Inc,Saint Barthelemy,Hardware,GB87ZNRA00004226209590
+V00465,Lacombe Garcia SA,South Africa,Logistics,GB37OMCQ44724074766814
+V00466,Boyer et Fils,Madagascar,Legal,DE12790786298219482322
+V00467,Biggen Köhler e.V.,Nieuw-Zeeland,Software,NL51AVPS4608806324
+V00468,Köster AG,Rwanda,Logistics,NL70RIHW7457580100
+V00469,Ginnity Inc,Botsuana,Software,DE54137977170639340668
+V00470,Didier,Brazil,Hardware,FR8091299793700944548798595
+V00471,Royal Brumleve,Oekraïne,Software,DE48961760834285278830
+V00472,Pages,Jordanie,Logistics,IE9403622549931442832044960
+V00473,Royal Schatteleijn,Slovaquie,Hardware,FR9256669797687923896858544
+V00474,Diallo Laporte S.A.R.L.,British Indian Ocean Territory (Chagos Archipelago),Hardware,NL19IMJF0116665262
+V00475,Bohnbach GmbH,Uruguay,Logistics,DE70260668060946571174
+V00476,Metz Hahn Stiftung & Co. KGaA,United States Minor Outlying Islands,Logistics,NL06YOBR9007772383
+V00477,Paul,Ethiopia,Legal,DE52415795824396284468
+V00478,Junitz,France,Software,GB63EELA13366890696330
+V00479,McCartan LLC,Reunion,Consulting,NL71VHEI9265438205
+V00480,"McDonald, Bourke and MacGroarty",Centraal-Afrikaanse Republiek,Legal,NL43BNFP3451539471
+V00481,Royal Hoes,Andorre,Hardware,DE45872748924609885982
+V00482,Room & Aeije,Corée du Nord,Hardware,DE43191940372506763033
+V00483,"Evans, Kirby and Finch",Central African Republic,Consulting,FR4102972754147079067394858
+V00484,Koninklijke Wolters,Macau,Logistics,FR1832171801867321755427466
+V00485,Jacquet,Thailand,Hardware,NL76OVJU3468470977
+V00486,Perret,Ukraine,Logistics,FR4053517044729931584906114
+V00487,Koninklijke Verwoert,Hongkong,Legal,DE46104420000549167576
+V00488,Stichting van de Water,Niue,Logistics,FR6633759988627151971306554
+V00489,"Holden, Kerrigan and Behan",Guadeloupe,Consulting,FR4368725984686264593893803
+V00490,Wheeler and Sons,Cote d'Ivoire,Logistics,DE84895086780290524327
+V00491,Dirven BV,Malaysia,Software,NL81KOXY8135943770
+V00492,Garret Groep,Rumänien,Consulting,IE1364978346235070553121523
+V00493,"Bradley, Shepherd and Jones",Belgique,Logistics,DE89404282195665253551
+V00494,"Mulvany, McFall and Ward",Christmas Island,Legal,FR9552561000228022754606763
+V00495,Coolahan-Cotter,Montserrat,Logistics,DE39184021973746103650
+V00496,Kusch e.G.,Andorre,Hardware,DE22485425037997649710
+V00497,Zahn GmbH,Zwitserland,Consulting,NL67SVBN0741257076
+V00498,Lambert-Kent,Palestina,Logistics,NL25NNWE9127548836
+V00499,Glazier PLC,Tuvalu,Logistics,IE2839765589316377451364032
+V00500,Stoices Ltd,Vietnam,Logistics,GB84SYJX22486287736204
