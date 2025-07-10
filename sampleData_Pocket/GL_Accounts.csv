@@ -1,0 +1,6 @@
+AccountCode,AccountName,AccountType
+4000,Revenue,Revenue
+5000,COGS,Expense
+6000,Marketing Expense,Expense
+7000,Salaries & Wages,Expense
+8000,Accounts Receivable,Asset

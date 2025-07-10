@@ -1,0 +1,21 @@
+CostCenterID,Name,Department,Manager,Region
+CC001,Department 1,Marketing,Mats Bouwhuisen,Vietnam
+CC002,Department 2,Sales,Joanna Growney,Ireland
+CC003,Department 3,HR,Mats van 't Erve,Polen
+CC004,Department 4,Marketing,Shelby Marrinan,Barbados
+CC005,Department 5,HR,Jet Brouwer-van Wijland,Ghana
+CC006,Department 6,Finance,Sep van Dooren,Solomon Islands
+CC007,Department 7,HR,Claire Marie,Burkina Faso
+CC008,Department 8,Finance,Ayoub de la Fleche,Marshall Islands
+CC009,Department 9,Sales,Brooklyn Bowe,Jamaïque
+CC010,Department 10,Sales,Fatih Hornich,Curaçao
+CC011,Department 11,Finance,Fenne Lensen,Bouvet Island (Bouvetoya)
+CC012,Department 12,Marketing,Mrs Julia Green,Qatar
+CC013,Department 13,Finance,Stacey Kenna-Wilkinson,Malaisie
+CC014,Department 14,Sales,Clare Fair,Tanzania
+CC015,Department 15,Sales,Prof. Kazim Thies,Cookeilanden
+CC016,Department 16,Marketing,Ida Matthäi,Norway
+CC017,Department 17,HR,Claire Price,Guadeloupe
+CC018,Department 18,IT,Wayne Thomas,Rép. Dém. du Congo
+CC019,Department 19,Finance,Charlotte Dupuy,Jersey
+CC020,Department 20,Sales,Ciaran Silk,New Zealand
